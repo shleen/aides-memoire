@@ -32,7 +32,7 @@ Commonly found in modern-day power stations. Generates energy that's clean & che
 Electric generators provide energy to a great many machines! Some examples are- television sets, computers, trains, etc. Unlike sources of muscle power, electric generator's can provide a constant flow of energy.
 
 ### How Generators Work- A Crash Course
-A generator is basically a coil of wire contained within the field of a magnet. This coil of wire is made to spin by some external force- for example, a turbine. A turbine is spun by things like falling water or boiling water, which in turn causes the coil of wire to spin & then produce energy. 
+A generator is basically a coil of wire contained within the field of a magnet. This coil of wire is made to spin by some external force- for example, a turbine. A turbine is spun by things like falling water or boiling water, which in turn causes the coil of wire to spin & then produce energy.
 
 The two types of generators- AC & DC. Design-wise, they differ in that in AC generators, the magnet rotates. Whereas it is the coil that rotates in DC generators. DC generators provide a reliable, efficient energy supply & are thus used in scale to power large motors. In contrast, AC generators more commonly power smaller motors like in home appliances such as vacuum cleaners & juicers.
 
@@ -48,7 +48,7 @@ The two types of combustion engines- 1. External Combustion Engines, typically f
 Starts as fuel burns in the cylinder, causing gases to expand & thus push the piston in a cycle of 4 up & down movements. The crankshaft converts this linear motion into a rotary motion. Power! More on the four-strokes below.
 
 1. The **Induction** (or **Suction**) Stroke
-   
+
    The intake valve opens & lets a petrol-air mixture into the cylinder. When the piston reaches its lowest position, the valve closes.
 
 2. The **Compression** Stroke
@@ -65,7 +65,7 @@ Starts as fuel burns in the cylinder, causing gases to expand & thus push the pi
 
 
 ## Batteries
-Provides electricity from chemical reactions. Rechargeable batteries are simply ones whose chemical reactions can be reversed. Batteries are light, clean, & safe. 
+Provides electricity from chemical reactions. Rechargeable batteries are simply ones whose chemical reactions can be reversed. Batteries are light, clean, & safe.
 
 They either act as the main source of power in portable machines like stereos, hearing aids, & remote controllers, etc, or as a backup source of power in machines like computers & fax machines.
 
@@ -120,7 +120,7 @@ A good example is a vehicle's steering wheel. The system is capable of accomplis
 As can be inferred, these machines are able to operate with no (or minimal) human supervision. Fully-automatic machines are thus commonly operated by computers. This derives it's alternate name, computer control systems.
 
 <br>
-It might feel intuitive to be of the opinion that fully-automatic machines are superior to semi-automatic machines. However, note that this isn't necessarily true. 
+It might feel intuitive to be of the opinion that fully-automatic machines are superior to semi-automatic machines. However, note that this isn't necessarily true.
 
 The same way that there are tasks that are difficult for humans to execute, there are similarly difficult tasks for machines to execute. For examples, the task of identifying real jewels from fake ones is difficult for a machine, in the same way it's difficult for humans to repetitively assemble machines with many small parts.
 
@@ -130,3 +130,30 @@ This basically means that, like most things in life, we have to find a balance. 
 
 ### Levers
 A simple mechanical machine that consists of a bar that rotates (within a limit) about a fixed point. This fixed point is called a fulcrum or a pivot.
+
+Some terms that will come up when talking about levers-
+
+- **Effort**- The force applied to the lever to move a load.
+- **Load**- The force that the lever is designed to overcome. This typically refers to the weight of the object that's being lifted.
+- **Fulcrum** (also **Pivot**)- The point around which the lever rotates.
+
+Like so many other things, levers can too be further grouped into three distinct categories (& one kinda category).
+
+<img src="https://i.imgur.com/i4M9JE8.png" width="300">
+
+Because visuals are sometimes the best way to learn.
+
+1. **1st Class**- Fulcrum is positioned near to the load. This means that little effort is required to lift a large load. Useful in applications like crowbars & nail pullers.
+
+2. **2nd Class**- Load is positioned in between the fulcrum & the effort. This get up will move a large load over a short distance with a small effort over a large distance. These levers can be found in bottle openers & wheelbarrows.
+
+3. **3rd Class**- Effort is placed in between the fulcrum & the load. This converts a small movement with large effort into a large movement of a small load. For example, fishing rods!
+
+4. **Special Levers**- For example, balancing levers that, ykno, balance 2 loads. Like in weighing scales. Also, rotating levers, where the effort is spent to spin the lever around. Like wrenches!
+
+#### A Work Equation
+    # we know that
+    input = output
+
+    # therefore
+    effort * distance moved by effort = load * distance moved by load
