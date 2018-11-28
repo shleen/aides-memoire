@@ -208,3 +208,15 @@ We'll cover four of the more common types of gears that can be found in the grea
 3. **Worm Gears**- A spur gear, but in the form of a screw. Typically used in conjunction with a spur gear. Note that only the shaft can spin the gear; the gear is unable to spin the worm gear. This gives a perfect application of a car's odometer.
 
 4. **Bevel Gears**- Spur gears, but with teeth that are cut at an angle. Used to transmit motion between perpendicular shafts. e.g. a car jack.
+
+
+### Motors
+Electrical machines that converts **electrical energy into mechanical energy**. They get their power from electricity or assorted fuels.
+
+Tip! You can reverse a motor simply by reversing the current that flows through the motor.
+
+Motors are applied in oh so many places! Washing machines, refrigerators, etc!
+
+
+### Generators
+(also) electrical machines, that instead convert **mechanical energy to electrical energy**. Used to, ykno, generate electricity for regular use.
