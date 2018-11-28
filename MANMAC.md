@@ -157,3 +157,24 @@ Because visuals are sometimes the best way to learn.
 
     # therefore
     effort * distance moved by effort = load * distance moved by load
+
+
+### Pulleys
+Like levers, pulleys are also simple mechanical machines. The simplest of simple pulleys consist of a wheel with a rope running over it. This wheel + rope contraption is hung as needed from its axle.
+
+<img src="https://i.imgur.com/0hPg1bj.png" width="200">
+
+Within the enormous family of pulleys, they can be generally split into categories for fixed or movable pulleys. This difference is quite significant, because these types of pulleys are used for different ends. Fixed pulleys are used to change the direction of a force, whereas movable pulleys are used to multiply the force exerted.
+
+We're going to cover specific types of pulleys & look at how they provide differing mechanical advantages (MA).
+
+1. **Single Fixed Pulleys**- Gets work done (i.e. lifting a load) by changing the direction of the effort. Work done by effort = work done by load. No mechanical advantage; **MA = 1**
+
+2. **Single Moving Pulleys**- Halves the effort required. **MA = 2**
+
+3. **Compound Pulleys (also Joining Pulleys)**- Multiplies effort, depending on (a) the number of pulley wheels used & (b) the number of times the rope loops over the wheels. Good mechanical advantage; **MA >= 1**
+
+4. **Gun Tackle Pulleys**- Basically a single moving pulley with a single fixed pulley used to change the direction of the effort. Since MA of single fixed pulleys = 1, **MA remains at 2**.
+
+
+Why do the seemingly alike machines produce differing MAs? `MA = load / effort` Think about it, it'll make sense.
