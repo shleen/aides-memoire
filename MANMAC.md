@@ -178,3 +178,33 @@ We're going to cover specific types of pulleys & look at how they provide differ
 
 
 Why do the seemingly alike machines produce differing MAs? `MA = load / effort` Think about it, it'll make sense.
+
+
+### Wheels
+Would you have guessed? Wheels are simple mechanical machines too! Circular machines that are able to transmit power continuously. It's stable thanks to **angular momentum**, & relies on centripetal forces to hold it together as it rotates.
+
+#### + an Axle = Wheel & Axle
+A simple machine used to magnify a force. For example, a car's steering wheel or a water well.
+
+#### + a Belt = Wheel & Belts
+Used to transmit motion between two bodies that are in separate points in space. Note that wheels linked in this way typically spin in the same direction.
+
+The force & speed that the machine exerts can be manipulated by altering the difference in sizes of the wheels. These machines can be found in army tanks, that have to be able to move well in rough terrain. However, these machines tend to be on the slower side, requiring more force to be driven.
+
+
+### Gears
+Simple mechanical machines that are basically wheels with teeth around its circumference. Different gears differ in the size & number of their teeth. Their teeth can also vary in terms of angle inclination or build (i.e. straight or curved). Their main function is alteration of speed.
+
+Unlike linked wheels that spin in the same direction, linked gears always spin in opposite directions.
+
+Some things to look out for when using gears in your machines- ensure that they are aligned well & that they don't touch the ground.
+
+We'll cover four of the more common types of gears that can be found in the great big world.
+
+1. **Spur Gears**- What you think of when you think of gears. Are used to transfer energy between parallel shafts. e.g. car gearboxes.
+
+2. **Rack & Pinion Gears**- A spur gear + a toothed rack (a strip of metal with teeth lining one long edge). Bridges linear & rotational movement. CON- movement is limited to the length of the toothed rack. e.g. a car's steering mechanism.
+
+3. **Worm Gears**- A spur gear, but in the form of a screw. Typically used in conjunction with a spur gear. Note that only the shaft can spin the gear; the gear is unable to spin the worm gear. This gives a perfect application of a car's odometer.
+
+4. **Bevel Gears**- Spur gears, but with teeth that are cut at an angle. Used to transmit motion between perpendicular shafts. e.g. a car jack.
