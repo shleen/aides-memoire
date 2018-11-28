@@ -9,14 +9,6 @@ A device that does work. This work can be manifested in multiple ways-
 A machine is made up of many parts, each with its own function, with the aim of performing a more significant function. A machine also, naturally, requires a power source.
 
 
-# A Rough Timeline of Science
-
-- The Birth of Science: **1251 - 1700**
-- The Industrial Revolution: **1701 - 1850**
-- The Steam Age: **1851 - 1940**
-- The Silicon Age: **1941 - Present**
-
-
 # Sources of Energy
 
 
