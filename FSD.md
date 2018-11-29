@@ -8,9 +8,7 @@ Loosely analogous to construction & manufacturing workflows, in the sense that i
 
 This means that projects developed with this methodology typically share several characteristics.
 
-1. (very) **specific project requirements**. It's pretty self-explanatory why.
-
-1. **Stable project requirements**. Likewise for this point.
+1. (very) **specific & stable project requirements**. It's pretty self-explanatory why.
 
 1. **A need for documentation**. The waterfall methodology's sequential design provides the necessary structure & resources to document the project.
 
@@ -58,7 +56,54 @@ Of course you'll need a set of advantages & disadvantages, to compare with those
 - Builds systems that, characteristically, can be deployed whenever. These projects are, therefore, more likely to make good on the product's launch date.
 
 #### Disadvantages
-- 
+- An incompetent project manager can lead to a late & over budget product.
+
+- There is a (significant) chance for the final product to be completely different than what was intended at the beginning of the project.
+
+With these points in mind, there are then of course a set of common features in projects suited to the Agile methodology.
+
+1. **Rapid production is important**. Agile is really good for producing a market-ready product quickly.
+
+1. Product owner wants **flexibility** or the project's nature requires for the requirements to be able to change during the development process.
+
+1. When there is **no strict picture of the final product**. This is where agile's incremental approach rocks.
+
+1. **Motivated & skilled developers**.
+
+### The Agile Manifesto
+The baseline of The Agile Methodology. Consists of 4 values & 12 principles.
+
+#### The 4 Values of Agile
+- Individuals & Interactions **>** Processes & Tools
+- Working software **>** Comprehensive documentation
+- Customer Collaboration **>** Contract Negotiation
+- Change-driven **>** Plan-driven
+
+#### The 12 Guiding Principles of Agile
+1. The Priority- **Customer Satisfaction**. This is accomplished with early & continuous delivery of software.
+
+1. Changing requirements should be **welcomed**.
+
+1. Software should be **delivered frequently**. This opens up a continuous flow of user/ client feedback.
+
+1. There should be **daily collaboration** between the product owner & the development team. This looks like frequent demos & opportunities to fine tune the project requirements.
+
+1. Build a team of **competent & motivated** developers; provide them with support & trust them to get the job done.
+
+1. Nothing beats **face-to-face conversation**.
+
+1. Progress is measured by **working software**.
+
+1. **Sustainable development**! Agile development teams should be able to maintain their pace indefinitely.
+
+1. Applaud **technical excellence & good design**.
+
+1. The goal is to **do the least amount of work possible**.
+
+1. Give the team **autonomy**. Self-organisation beats all other types of organisation.
+
+1. **Frequent retrospectives** work amazingly to help the team increase their productivity.
+
 
 ### A Sprint
 The building blocks of an agile development process. Consists of the all-important
