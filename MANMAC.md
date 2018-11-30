@@ -19,7 +19,7 @@ Is... bad. People get tired! Animals get tired! Flow of energy isn't constant.
 
 
 ## Electric Generators
-Commonly found in modern-day power stations. Generates energy that's clean & cheap. It's convenient, too! This energy powers our lives. It gets to us through giant cables that are (a) underground or (b) overhead.
+Commonly found in modern-day power stations. Generates energy that's clean, cheap & convenient! This energy powers our lives. It gets to us through giant cables that are (a) underground or (b) overhead.
 
 Electric generators provide energy to a great many machines! Some examples are- television sets, computers, trains, etc. Unlike sources of muscle power, electric generator's can provide a constant flow of energy.
 
