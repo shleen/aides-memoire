@@ -63,7 +63,7 @@ They either act as the main source of power in portable machines like stereos, h
 
 
 ## Alternative sources
-For example- Solar, Nuclear, Geothermal, Wind, Ocean power etc.
+For example- Solar, Nuclear, Geothermal, Wind, Marine energy etc.
 
 # Types of Machines
 All machines in the world can be (very roughly) generalised into two types- simple & complex machines.
