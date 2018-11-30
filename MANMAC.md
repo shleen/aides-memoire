@@ -162,7 +162,7 @@ We're going to cover specific types of pulleys & look at how they provide differ
 
 2. **Single Moving Pulleys**- Halves the effort required. **MA = 2**
 
-3. **Compound Pulleys (also Joining Pulleys)**- Multiplies effort, depending on (a) the number of pulley wheels used & (b) the number of times the rope loops over the wheels. Good mechanical advantage; **MA >= 1**
+3. **Compound Pulleys (also Joining Pulleys)**- Multiplies effort, depending on (a) the number of pulley wheels used & (b) the number of times the rope loops over the wheels. Good mechanical advantage; **MA >= 2**
 
 4. **Gun Tackle Pulleys**- Basically a single moving pulley with a single fixed pulley used to change the direction of the effort. Since MA of single fixed pulleys = 1, **MA remains at 2**.
 
