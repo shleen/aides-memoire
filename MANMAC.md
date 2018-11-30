@@ -30,7 +30,7 @@ The two types of generators- AC & DC. Design-wise, they differ in that in AC gen
 
 
 ## Combustion Engines
-Extracts chemical energy from fuels through combustion as thermal energy, which is in turn converted to mechanical energy.
+Extracts chemical energy from fuels through combustion as heat, which is then converted to mechanical energy.
 
 The two types of combustion engines- 1. External Combustion Engines, typically found in power stations & 2. Internal Combustion Engines (or The Four-Stroke Engine) that's found in cars & speedboats.
 
