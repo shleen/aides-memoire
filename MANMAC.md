@@ -21,7 +21,7 @@ Is... bad. People get tired! Animals get tired! Flow of energy isn't constant.
 ## Electric Generators
 Commonly found in modern-day power stations. Generates energy that's clean, cheap & convenient! This energy powers our lives. It gets to us through giant cables that are (a) underground or (b) overhead.
 
-Electric generators provide energy to a great many machines! Some examples are- television sets, computers, trains, etc. Unlike sources of muscle power, electric generator's can provide a constant flow of energy.
+Electric generators provide energy to a great many machines! Some examples are- television sets, computers, trains, etc. Unlike sources of muscle power, electric generators can provide a constant flow of energy.
 
 ### How Generators Work- A Crash Course
 A generator is basically a coil of wire contained within the field of a magnet. This coil of wire is made to spin by some external force- for example, a turbine. A turbine is spun by things like falling water or boiling water, which in turn causes the coil of wire to spin & then produce energy.
