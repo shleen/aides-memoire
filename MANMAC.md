@@ -69,9 +69,7 @@ For example- Solar, Nuclear, Geothermal, Wind, Marine energy etc.
 All machines in the world can be (very roughly) generalised into two types- simple & complex machines.
 
 ## Simple Machines
-As it's name suggests, they perform simple functions. It's common for these machines to be quite trivial. Examples include levers, pulleys, inclined planes, & so forth.
-
-This group of machines can be further classified into two categories- translational motion machines & rotational motion machines.
+As it's name suggests, they perform simple functions. It's common for these machines to be quite trivial. Examples include levers, pulleys & inclined planes. These machines can be further classified into two categories- translational motion machines & rotational motion machines.
 
 1. **Translational Motion Machines**- Machines that cause an entire body to shift from one point in space to another. For example, levers & inclined planes.
 
