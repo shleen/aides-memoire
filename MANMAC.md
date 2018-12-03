@@ -1,3 +1,9 @@
+## Things You Must Know
+- The Four-Stroke Engine
+- Toilet Tanks (its components + how it works)
+- Types of Pulleys (& each of its MA)
+- Types of Gears (& each of its application)
+
 # A Machine
 A device that does work. This work can be manifested in multiple ways-
 

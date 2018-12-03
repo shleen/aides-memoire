@@ -1,12 +1,12 @@
 # Software Development Methodologies
-Software & IT forms part of a very much legitimate industry. There is a need for increasingly complex systems to be built. These tasks are very nearly impossible to accomplish without a comprehensive plan. & since it really doesn't make sense to develop an entire system before embarking on a new project. So, methodologies!
+The IT industry is very much legitimate. There is a demand for increasingly complex systems. These systems are very nearly impossible to build without a comprehensive plan. Since it doesn't make sense to devise a plan from scratch before each new project, we have methodologies!
 
 These methodologies can be charted on a spectrum, ranging from **predictive, plan-driven** schemes like the Waterfall model, to **adaptive, change-driven** schemes like the Agile model.
 
 ## The Waterfall Methodology
-Loosely analogous to construction & manufacturing workflows, in the sense that it is highly **sequential**. Maybe its most distinctive characteristic is it's policy of no backtracking. Completion of the design process is completion of the design process.
+Loosely analogous to construction & manufacturing workflows, in the sense that the waterfall methodology is highly **sequential**, where it's policy of no backtracking is perhaps its most distinctive characteristic.
 
-This means that projects developed with this methodology typically share several characteristics.
+Projects developed with this methodology typically share several characteristics.
 
 1. (very) **specific & stable project requirements**. It's pretty self-explanatory why.
 
@@ -105,9 +105,141 @@ The baseline of The Agile Methodology. Consists of 4 values & 12 principles.
 1. **Frequent retrospectives** work amazingly to help the team increase their productivity.
 
 
-### A Sprint
-The building blocks of an agile development process. Consists of the all-important
+---
 
+In this module, we will look mainly at the Scrum framework of the Agile methodology.
+
+## Agile Framework- Scrum
+Lightweight! Is built on **sprints** & maintains light overhead by maximising the time spent doing work. Good for complex projects, as it'll break it down into smaller, more manageable blocks.
+
+### A Sprint
+The building blocks of the Scrum framework. Consists of the all-important
 - sprint planning
 - sprint review
 - daily stand-ups
+
+#### Sprint Review vs Sprint Retrospective
+Sprint reviews are product-oriented, to gather feedback on what has been built in the past print. Whereas sprint retrospectives are team-oriented, with the goal of improving the team's productivity.
+
+### Benefits
+- ⬆️ quality of deliverables
+- Responds well to changing requirements
+- Provides better estimates, quicker
+- Provides better control over the project schedule
+
+### Non-Benefits
+- No exact deadlines, things are quite in the air
+
+---
+
+# Group Development & Conflict Resolution
+
+## The Importance of Group Development
+A group of talented people != a good team. An effective, high-functioning team is cultivated!
+
+## The Stages in Group Development
+Breaking this group development process into distinct stages aims to create high-performing teams. The different stages of group development are significant for the differing levels of productivity between them. These productivity levels are visualised below.
+
+![Team Effectiveness against Performance Impact](https://i.imgur.com/HqgUVmC.png)
+
+### Forming
+Teammates become acquainted with each other. A *first date*, if you will. Some topics of conversation that are likely to come up include-
+
+- teammates' skills & their background
+- the project's goals & its timeline
+- some ground rules
+- individual roles
+
+A lack of productivity at this stage is somewhat expected, since tasks are people-oriented, team members are focused on getting to know each other rather than getting work done.
+
+#### Tips for sustainability in Forming
+- Communication is key! Talk about everything. Talk about skills, interests, & project goals. Make sure that everyone's on the same page.
+- Define each member's role clearly. This ensures that all job roles are covered & that boundaries are clear to everyone.
+
+### Storming
+Increased order of communication, but don't feel any sense of team fondness. The leader's word will not be followed. Personalities clash, members disagree, & is a generally bad time.
+
+Some teams try to avoid this stage by, well, avoiding it. This is bad, though! This only encourages the problem(s) to grow until they become explosive!
+
+#### Tips for sustainability in Storming
+- Again, communication is key! Hold a meeting, talk it out maturely.
+- Mediation is typically a good strategy as well. (this can be internal or external!!)
+- Keep your eyes on the prize. Don't let your team kill itself over trivial matters.
+
+### Norming
+Team spirit is established! Teammates recognise other teammates' strengths & are able to work together relatively well. This is not to say there are no conflicts in this stage at all. People clash. They just get better at getting over the clashes.
+
+#### Tips for sustainability in Norming
+- Show appreciation for your teammates! This sparks motivation & encourages closer relationships to form.
+- Again, keep your eyes on the prize. Remind your teammates of the importance of the project.
+- Use past successes to motivate your teammates into continually moving forward,
+
+### Performing
+Teammates work in an open, trusting atmosphere with high productivity, like a well-oiled machine! Everyone is motivated & confident about their skills & value to the team. This is the era of Highest Productivity, the era that all teams strive to attain.
+
+Do note that some teams never make it this far. Some teams get caught up in the storming stage & find themselves unable to overcome their conflicts.
+
+#### Tips for sustainability in Performing
+- Delegation is super impt!
+- Indirect management is the way to go!
+
+### Adjourning
+Assessment + recognition of teammates' contributions. Then, the group disbands. 😕
+
+
+## Common Values found in Successful Teams
+1. **Psychological Safety**- a trust to share honest opinions.
+1. **Dependability**- a trust that teammates will get what needs to be done, done.
+1. **Structure & Clarity**- having clear roles & goals.
+1. **Meaning**- team members sincerely enjoy what they are working on.
+1. **Impact**- team members believe that they are working to creating a positive change in the world.
+
+
+## How Conflict Arises in Group Development
+- Unhealthy competition between teammates.
+- Misunderstanding of job roles or requirements.
+- Interdependence i.e. one teammate relies on another to get their work done.
+- A subpar feedback system lacking frequent & genuine feedback.
+- Disagreements in strategy or execution.
+- Lack of focus on the goals that really matter.
+- Poor delegation.
+- Unproductive culture. e.g. a culture where teammates are accustomed to simply pushing the blame of missing a deadline to another teammate.
+
+
+## Conflict Resolution Styles
+As people have differing personalities, it thus follows that people have different ways of handling conflict. Here's a widely accepted generalisation of that concept. For a quick overview of the different conflict resolution styles, check out the diagram below.
+
+![Conflict Resolution Styles, Charted](https://i.imgur.com/o8QQtve.png)
+
+### Competing
+These people prioritise, well, winning. They're highly assertive & uncooperative. It's very typically characteristic of these people to be largely goal-oriented, without placing much priority on relationships.
+
+Their assertiveness can, at times, cross the border into aggressiveness & are often perceived as being intimidating. Their need to win means that there is typically someone on the corresponding losing end.
+
+**+ / -** This conflict resolution style is good when the person's decision is, in fact, the best decision. However, this conflict resolution style commonly breeds hostility & resentment.
+
+### Collaborating
+These people aim to look for a win-win situation in everything. They're highly assertive, but also highly cooperative. This style shows a value for goals as well as relationships.
+
+**+ / -** This conflict resolution is great because at the end of the day everyone gets what they want & theres no hostility. The only downside is that this method takes a lot of time & effort.
+
+### Compromising
+Not dissimilar to the collaborative conflict resolution style, people that take to compromise in conflict resolution are very moderate. They're moderately assertive, & moderately cooperative.
+
+Like the collaborative conflict resolution style, these people value goals & relationships. However, the way that collaborative resolvers are steadfast in trying to find the best possible solution, these resolvers are willing to give up on some of their own values if that means that others are also willing to give up on some of their values so both parties can meet in the middle.
+
+**+ / -** Relationships are maintained & conflicts are resolved. However, compromise can mean that the final outcome may be less than ideal. Also, this opens up avenues for manipulation.
+
+### Avoiding
+These people simply don't want to deal with conflict of any kind. They're very unassertive & uncooperative.
+
+In the face of conflict, they give up their goals easily & remain passive to the situation. This means that they often end up in lose-lose situations.
+
+**+ / -** No harm done to relationships, since they simply refuse to partake in conflict resolution. However, the conflicts remain unresolved & people thus tend to be perceived as pushovers.
+
+### Accommodating
+These people are ..afraid to get on people's wrong side. They are often highly cooperative to whatever view is presented to them & are very unassertive. They prioritise relationships (unlike competing resolvers!).
+
+Put in the middle of a conflict, they are able to give up on their own goals if it means that others are able to achieve their goals. This typically manifests as a win-lose situation where the resolver is on the losing end.
+
+**+ / -** Relationships are kept in top-notch conditions, though it leaves them in a position where they are likely to be taken advantage of.
