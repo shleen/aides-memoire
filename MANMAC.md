@@ -25,9 +25,9 @@ Is... bad. People get tired! Animals get tired! Flow of energy isn't constant.
 
 
 ## Electric Generators
-Commonly found in modern-day power stations. Generates energy that's clean & cheap. It's convenient, too! This energy powers our lives. It gets to us through giant cables that are (a) underground or (b) overhead.
+Commonly found in modern-day power stations. Generates energy that's clean, cheap & convenient! This energy powers our lives. It gets to us through giant cables that are (a) underground or (b) overhead.
 
-Electric generators provide energy to a great many machines! Some examples are- television sets, computers, trains, etc. Unlike sources of muscle power, electric generator's can provide a constant flow of energy.
+Electric generators provide energy to a great many machines! Some examples are- television sets, computers, trains, etc. Unlike sources of muscle power, electric generators can provide a constant flow of energy.
 
 ### How Generators Work- A Crash Course
 A generator is basically a coil of wire contained within the field of a magnet. This coil of wire is made to spin by some external force- for example, a turbine. A turbine is spun by things like falling water or boiling water, which in turn causes the coil of wire to spin & then produce energy.
@@ -36,7 +36,7 @@ The two types of generators- AC & DC. Design-wise, they differ in that in AC gen
 
 
 ## Combustion Engines
-Extracts chemical energy from fuels through combustion as thermal energy, which is in turn converted to mechanical energy.
+Extracts chemical energy from fuels through combustion as heat, which is then converted to mechanical energy.
 
 The two types of combustion engines- 1. External Combustion Engines, typically found in power stations & 2. Internal Combustion Engines (or The Four-Stroke Engine) that's found in cars & speedboats.
 
@@ -69,15 +69,13 @@ They either act as the main source of power in portable machines like stereos, h
 
 
 ## Alternative sources
-For example- Solar, Nuclear, Geothermal, Wind, Ocean power etc.
+For example- Solar, Nuclear, Geothermal, Wind, Marine energy etc.
 
 # Types of Machines
 All machines in the world can be (very roughly) generalised into two types- simple & complex machines.
 
 ## Simple Machines
-As it's name suggests, they perform simple functions. It's common for these machines to be quite trivial. Examples include levers, pulleys, inclined planes, & so forth.
-
-This group of machines can be further classified into two categories- translational motion machines & rotational motion machines.
+As it's name suggests, they perform simple functions. It's common for these machines to be quite trivial. Examples include levers, pulleys & inclined planes. These machines can be further classified into two categories- translational motion machines & rotational motion machines.
 
 1. **Translational Motion Machines**- Machines that cause an entire body to shift from one point in space to another. For example, levers & inclined planes.
 
@@ -170,7 +168,7 @@ We're going to cover specific types of pulleys & look at how they provide differ
 
 2. **Single Moving Pulleys**- Halves the effort required. **MA = 2**
 
-3. **Compound Pulleys (also Joining Pulleys)**- Multiplies effort, depending on (a) the number of pulley wheels used & (b) the number of times the rope loops over the wheels. Good mechanical advantage; **MA >= 1**
+3. **Compound Pulleys (also Joining Pulleys)**- Multiplies effort, depending on (a) the number of pulley wheels used & (b) the number of times the rope loops over the wheels. Good mechanical advantage; **MA >= 2**
 
 4. **Gun Tackle Pulleys**- Basically a single moving pulley with a single fixed pulley used to change the direction of the effort. Since MA of single fixed pulleys = 1, **MA remains at 2**.
 
