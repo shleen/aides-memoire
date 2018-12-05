@@ -257,3 +257,20 @@ These people are ..afraid to get on people's wrong side. They are often highly c
 Put in the middle of a conflict, they are able to give up on their own goals if it means that others are able to achieve their goals. This typically manifests as a win-lose situation where the resolver is on the losing end.
 
 **+ / -** Relationships are kept in top-notch conditions, though it leaves them in a position where they are likely to be taken advantage of.
+
+
+
+# Inception Deck
+Your project, in a nutshell. It's not a pitch, in that it should cover more than just the flashy bits. It's really an attempt to iron out all possible kinks before even encountering them. This means deciphering details like..
+
+- **Problem Statement**- A single line that conveys the project's mission.
+- **The Elevator Pitch**- A crash course on the solution that covers  details like..
+  - Target Audience
+  - Product Name
+  - Main Features
+  - Benefits
+  - Innovation
+- **The NOT List**- Clarifies the project's scope. What features can be expected to be included? What features are straight no-gos?
+- **The Solution**- Great for setting expectations straight. This is a good time to express concerns regarding possible risks & the planned tech stack!
+- **(rough) Timeline**- Useful for setting expectations straight- in terms of time, manpower, budget, etc.
+- **Priorities**- How will the team side? Refers to things like scope, budget, time, & quality.
