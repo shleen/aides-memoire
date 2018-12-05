@@ -112,11 +112,25 @@ In this module, we will look mainly at the Scrum framework of the Agile methodol
 ## Agile Framework- Scrum
 Lightweight! Is built on **sprints** & maintains light overhead by maximising the time spent doing work. Good for complex projects, as it'll break it down into smaller, more manageable blocks.
 
+### The Product Backlog
+An list (in order of priority) of all the features needed/ wanted in the product. The act of maintaining & ordering this list falls on the product owner.
+
+### Definition of Done (DoD)
+It's important to ensure that the entire team has the same understanding of **done** to prevent any unwanted miscommunications etc.
+
+Note also that the DoD varies not only between teams, but also between different levels (e.g. feature, sprint, or the release).
+
 ### A Sprint
-The building blocks of the Scrum framework. Consists of the all-important
-- sprint planning
-- sprint review
-- daily stand-ups
+The building blocks of the Scrum framework. Are typically short blocks that span 2 or 4 weeks. Its stages-
+
+#### Sprint planning
+Duration: 2hrs per week in the sprint. i.e. a 4 week sprint will have a 8 hour sprint planning meeting.
+
+
+
+#### Daily stand-ups
+#### Sprint review
+#### Sprint retrospective
 
 #### Sprint Review vs Sprint Retrospective
 Sprint reviews are product-oriented, to gather feedback on what has been built in the past print. Whereas sprint retrospectives are team-oriented, with the goal of improving the team's productivity.
@@ -132,8 +146,7 @@ Sprint reviews are product-oriented, to gather feedback on what has been built i
 
 ---
 
-# Group Development & Conflict Resolution
-
+# Group Development
 ## The Importance of Group Development
 A group of talented people != a good team. An effective, high-functioning team is cultivated!
 
@@ -195,6 +208,7 @@ Assessment + recognition of teammates' contributions. Then, the group disbands. 
 1. **Impact**- team members believe that they are working to creating a positive change in the world.
 
 
+# Conflict Resolution
 ## How Conflict Arises in Group Development
 - Unhealthy competition between teammates.
 - Misunderstanding of job roles or requirements.

@@ -14,7 +14,8 @@ The subject of user experience is far from trivial. You can't expect to dive rig
 The first stage, arguably the most important stage, refers to gaining a comprehensive, accurate understanding of the project's requirements & the product's target users. Here we have some tried & tested methods that will bring you ever so much closer to true understanding.
 
 ### Gather Requirements
-Essential! Ensures that your assumptions are lined up with the ground truth (of the users).
+Essential! Ensures that your assumptions are lined up with the users' ground truth.
+
 
 ### User Analysis
 Used to decide which research methods are most suitable.
@@ -22,7 +23,9 @@ Used to decide which research methods are most suitable.
 #### User Research Methods (8 of them)
 
 ### Competitor Analysis
-For understanding of the current market landscape.
+For understanding of the current market landscape. Is achieved with heuristic evaluation, that's covered in detail below.
+
+#### Heuristic Evaluation
 
 
 ## Analyse
@@ -95,3 +98,12 @@ If you won't trust intuition, you have to trust numbers! Receive metrics (someti
 Speaking of conversion rates... <mark style='background: rgb(210,210,210)'>did you know</mark>? Use of hamburger menus have been found to increase conversion rates (in comparison to visible navigation)!
 
 ### UX Checklist Summary
+
+# UXD Roles
+There is actually a wide range of responsibilities required in UXD. In this module, we'll cover some of the more crucial roles.
+
+## UXD Director
+
+## Content Producer
+
+## UX Designer
