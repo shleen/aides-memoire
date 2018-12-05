@@ -112,23 +112,25 @@ In this module, we will look mainly at the Scrum framework of the Agile methodol
 ## Agile Framework- Scrum
 Lightweight! Is built on **sprints** & maintains light overhead by maximising the time spent doing work. Good for complex projects, as it'll break it down into smaller, more manageable blocks.
 
-### The Product Backlog
-An list (in order of priority) of all the features needed/ wanted in the product. The act of maintaining & ordering this list falls on the product owner.
-
-### Definition of Done (DoD)
-It's important to ensure that the entire team has the same understanding of **done** to prevent any unwanted miscommunications etc.
-
-Note also that the DoD varies not only between teams, but also between different levels (e.g. feature, sprint, or the release).
-
 ### A Sprint
 The building blocks of the Scrum framework. Are typically short blocks that span 2 or 4 weeks. Its stages-
 
 #### Sprint planning
-Duration: 2hrs per week in the sprint. i.e. a 4 week sprint will have a 8 hour sprint planning meeting.
+Duration: 2 hrs / sprint week. i.e. a 4 week sprint will have a 8 hr sprint planning meeting. In a sprint planning meeting, there are 2 goals to meet-
 
+1. **Product Backlog Review**- (conducted with the product owner) To go over & ensure that the product backlog remains aligned with the product owner's vision of the final product.
 
+1. **Sprint Backlog**- Deciding on what is to be built during the coming sprint.
 
 #### Daily stand-ups
+~15 minutes, every day. The goal: update the rest of the team. During the stand-up, each member answers 3 questions-
+
+1. What have you accomplished since the last stand-up?
+1. What are you planning on accomplishing between now & the next stand-up?
+1. Are you facing any obstacles with any of your current tasks?
+
+Note: the product owner's presence is optional for these meetings!
+
 #### Sprint review
 #### Sprint retrospective
 
@@ -258,9 +260,10 @@ Put in the middle of a conflict, they are able to give up on their own goals if 
 
 **+ / -** Relationships are kept in top-notch conditions, though it leaves them in a position where they are likely to be taken advantage of.
 
+# misc. Jargon
+Some terms you are likely to come across on your journey through the world of software development.
 
-
-# Inception Deck
+## Inception Deck
 Your project, in a nutshell. It's not a pitch, in that it should cover more than just the flashy bits. It's really an attempt to iron out all possible kinks before even encountering them. This means deciphering details like..
 
 - **Problem Statement**- A single line that conveys the project's mission.
@@ -274,3 +277,33 @@ Your project, in a nutshell. It's not a pitch, in that it should cover more than
 - **The Solution**- Great for setting expectations straight. This is a good time to express concerns regarding possible risks & the planned tech stack!
 - **(rough) Timeline**- Useful for setting expectations straight- in terms of time, manpower, budget, etc.
 - **Priorities**- How will the team side? Refers to things like scope, budget, time, & quality.
+
+## Product Backlog
+A list (ordered by priority) of the features to be built into the final product. The act of maintaining & ordering this list falls on the product owner.
+
+## Definition of Done (DoD)
+It's important to ensure that the entire team has the same understanding of **done** to prevent any unwanted miscommunications etc.
+
+Note also that the DoD varies not only between teams, but also between different levels (e.g. feature, sprint, or the release).
+
+## The INVEST Framework
+A quick guide to- **is this user story any good?** Try to keep to this framework, & you should be good for the most part.
+
+- **I**ndependent
+- **N**egotiable
+- **V**aluable
+- **E**stimable
+- **S**mall
+- **T**estable
+
+## Triangulation
+An estimation technique commonly used for user story sizing. Get yourself some sample users stories that you've already implemented or are confident in your estimation of. Then, the team is able to size all other user stories in relation to these.
+
+Simple, & logical! What more could you ask for? 😧
+
+## Planning Poker
+Like triangulation, planning poker is an estimation technique used for user story sizing.
+
+In planning poker, each member of the team first sizes all user stories (typically using the Fibonacci numbers with arbitrary units). Then, the entire team's estimates are compared & if everyone's estimates are similar, the team sticks with it. Otherwise, the team discusses the matter until a consensus is reached.
+
+Ta-da! ✨
