@@ -1,34 +1,98 @@
 # re: Design
-The approaches to design can be very broadly categorised into 2 groups- **Technology-Centred** & **Human-Centred**. These approaches differ in several areas.
+The approaches to design can be very broadly categorised into 2 groups- **Technology-Centred** & **Human-Centred**. These approaches differ in 3 key areas.
 
-1. Their **focus**. A tech-centred approach to design places importance on the system's components. However, a human-centred approach designs for the target users in the forefront of their consideration.
+|                           | Tech-Centred Design | Human-Centred Design |
+|---------------------------|---------------------|----------------------|
+| **Focus** | Places importance on system components. | Keeps target users in consideration's forefront. |
+| **Motivation** | Creates a design that best fulfils the project's use cases. | Creates a design that's most suited to a real world scenario. |
+| **Definition of Quality** | Produces working products. | Produces products that can be used as intended. |
 
-1. Their **motivation**. A tech-centred approach means designers aim to develop the best design that will fulfil the project's use cases. Human-centred design approaches, however, aim to create a design that's most suited to an identified scenario.
+# The User Experience (UX) Team
+As with any team, it's paramount that tasks are delegated systematically. Here are some key roles you'll find in pretty much any UX team.
 
-1. Their **definition of quality**. Tech-centred design approaches are content with working products. Human-centred design approaches, on the other hand, are only content if the user can use the product in the intended way.
+- **UXD Director**
+  - Responsible for the overall strategic development.
+  - Reviews all UX decisions (as a sort of quality control).
+  - Supports collaboration between disciplines that don't typically overlap.
+
+- **Content Producer**
+  - Responsible to maintain the harmony between content & design.
+  - Works with the design team & client to ensure that both groups' visions remain aligned.
+
+- **UX Designer**
+  - Initially- spend time gaining full understanding of the project's context & target users.
+  - Then- produce design artefacts like wireframes & storyboards.
 
 # The User Experience Design (UXD) Lifecycle
-The subject of user experience is far from trivial. You can't expect to dive right into designing a product & hold any reasonable expectation to produce an award-winning design. Designing a good user experience is a long & detailed process. So, of course some guy came up with a paradigm for it. It's made up of 4 steps. Here they are.
+The subject of user experience is far from trivial. It's illogical to dive head-first into designing a product & hold any reasonable expectation to produce an award-winning design. Creation of a good user experience is a long & detailed process. Naturally, we've developed a paradigm that hopes to provide some semblance of structure to the UXD process.
 
-## Understand
-The first stage, arguably the most important stage, refers to gaining a comprehensive, accurate understanding of the project's requirements & the product's target users. Here we have some tried & tested methods that will bring you ever so much closer to true understanding.
+It is a collection of methods that form a design process where user experience is the prime concern. A good approach to this is **challenging the status quo**- i.e. being able to recognise existing pain points & develop effective (& sometimes novel) methods of alleviating them. Good user experience, however, is only possible if an **optimal balance** is maintained between providing the best experience for the user & keeping within time & monetary constraints.
 
-### Gather Requirements
-Essential! Ensures that your assumptions are lined up with the users' ground truth.
+With all that said, here are the 4 stages of the UXD lifecycle.
 
+## 1. Understand
+The first stage, arguably the most important stage, refers to gaining a comprehensive, accurate understanding of the project's requirements & its target users. This stage is Essential! It ensures that your assumptions are lined up with the users' ground truth. Here we have some tried & tested methods that will bring you that much closer to true enlightenment.
 
 ### User Analysis
-Used to decide which research methods are most suitable.
+Here we'll cover a smattering of user research methods. However, taking the point of **optimal balance** mentioned above, it's important to be able to identify the most suitable research method(s) for the project at hand. A good way to figure this one out is- looking at the target users.
+
+Target users can first be either **internal** or **external**. & more specifically, internal users could refer to specific individuals or entire departments in an organisation while external users could refer to groups like suppliers or citizens.
+
+For an illustration- conducting **focus groups** would serve to benefit a product that caters to an organisation's department a great deal more than one that caters to all citizens of a nation.
 
 #### User Research Methods (8 of them)
+- **Ethnography** Methods- actually following people around as they live their lives to try & understand their behaviour & culture.
+- **Day in the Life**- cataloguing a person's daily activities using graphics & comic strips. Note that these activities include those outside the scope of the product. We're trying to gain a complete understanding of the person.
+- **Eye Tracking**- Using specialised tools to identify how the user's attention is spread out when using a product. Useful for things like advertisements or search results.
+- **Contextual Inquiry**- An interviewer observes a user interacting with a system. The interviewer then interviews the user.
+- **Focus Groups**- pointed discussion among 5-12 individuals, typically moderated by a domain expert.
+- **F2F Interviews**- wireframes/ a prototype is typically used as a prompt. Is very widely used but can be thought of as artificial or inefficient.
+- **Card Sorting**- Users are given cards, indicative of the product's different functions & are asked to sort them into logical groups. Great for getting a good grasp of the users' mental models.
+- **Persona**- Fictional character(s) formed through the team's understanding of the target audience. Requires some basis of user research but is great for keeping the team's design efforts on track throughout the design process.
 
-### Competitor Analysis
-For understanding of the current market landscape. Is achieved with heuristic evaluation, that's covered in detail below.
+
+Though there is no lack of user research methods that can be used by UXD teams, it still should be noted that it's not uncommon for teams to be faced with challenges. A common challenge faced by these designers is their **inability to translate their findings**. This means that they can carry out the research, they can collect the data. But, they're stuck there. They don't know how to translate the data into meaningful insights. On top of this, teams trying to design a completely novel product may face difficulty during research due to the **lack of precedence**. The best way to handle this is really to make as much use as possible of tools like wireframes & prototypes.
+
+### Competitive Analysis
+Sheds light on the current competition landscape. Is achieved through collaboration with multiple experts, using **heuristic evaluation**- making direct comparisons with design's best practices. This can prove to be extensively useful, with its ability to obtain quick & inexpensive feedback. These heuristic evaluation techniques are covered in detail below.
 
 #### Heuristic Evaluation
+1. **Made for Humans**
+  - enjoyable 😺
+  - users' mental models
+  - user-friendly language
+  - relevant & useful
+  - level of user control
+1. **Accessible**
+  - legible text
+  - unnecessary animations
+  - colour-blind users
+  - assistive technology compatibility
+1. **Self-Evident**
+  - clear context + target audience
+  - easy to navigate
+  - logical layout
+  - icons + graphics that make sense
+1. **Efficient**
+  - concise content structure
+  - responsive
+  - prioritise important tasks
+1. **Forgiving**
+  - prevent errors
+  - errors are explanatory & easy to recover from
+  - minimal mental workload 🧠
+1. **Predictable**
+  - consistent
+  - use of conventions
+  - good user input defaults
+  - remember user preference
+1. **Trustworthy**
+  - accurate
+  - up-to-date
+  - no bugs 🙅🏽‍
+  - keeps its promises
 
-
-## Analyse
+## 2. Analyse
 So you've done your research. Now, make sense of it. Some common methods include forming **personas** & conjuring **user journeys**.
 
 A persona is a fictional character constructed from the data collected from user research. The goal is typically to construct a representation of the project's target audience. This method is great for keeping UX designers focused on designing for the target users during the design process.
@@ -49,7 +113,7 @@ In this phase of the UXD lifecycle, we look at two aspects of content analysis.
 - Information Architecture
 
 
-## Design
+## 3. Design
 Apply yo design principles!
 
 ### Interface
@@ -72,7 +136,7 @@ We look at navigation design & layout.
 - Space
 
 
-## Validate
+## 4. Validate
 So you spent all this time & effort to birth design. However, is it **good**?
 
 ### Rapid Prototyping
