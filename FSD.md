@@ -1,7 +1,7 @@
 # Software Development Methodologies
-The IT industry is very much legitimate. There is a demand for increasingly complex systems. These systems are very nearly impossible to build without a comprehensive plan. Since it doesn't make sense to devise a plan from scratch before each new project, we have methodologies!
+There is a demand for increasingly complex systems in the IT industry. These systems are very nearly impossible to build without a solid plan. Since it doesn't make sense to devise a project-specific plan from scratch for each project, we have methodologies!
 
-These methodologies can be charted on a spectrum, ranging from **predictive, plan-driven** schemes like the Waterfall model, to **adaptive, change-driven** schemes like the Agile model.
+These methodologies, if charted on a spectrum, reveals a range from **predictive, plan-driven** schemes like the Waterfall methodology, to **adaptive, change-driven** schemes like the Agile methodology.
 
 ## The Waterfall Methodology
 Loosely analogous to construction & manufacturing workflows, in the sense that the waterfall methodology is highly **sequential**, where it's policy of no backtracking is perhaps its most distinctive characteristic.
@@ -115,24 +115,43 @@ Lightweight! Is built on **sprints** & maintains light overhead by maximising th
 ### A Sprint
 The building blocks of the Scrum framework. Are typically short blocks that span 2 or 4 weeks. Its stages-
 
-#### Sprint planning
+#### Sprint Planning
 Duration: 2 hrs / sprint week. i.e. a 4 week sprint will have a 8 hr sprint planning meeting. In a sprint planning meeting, there are 2 goals to meet-
 
-1. **Product Backlog Review**- (conducted with the product owner) To go over & ensure that the product backlog remains aligned with the product owner's vision of the final product.
+1. **Product Backlog Review**- (conducted with the product owner) To go over & ensure that the product backlog remains aligned with the product owner's vision of the final product. The team looks at the stories' content, size & their priorities.
 
 1. **Sprint Backlog**- Deciding on what is to be built during the coming sprint.
 
-#### Daily stand-ups
-~15 minutes, every day. The goal: update the rest of the team. During the stand-up, each member answers 3 questions-
+Basically, the sprint planning meeting (SPM) ensures that the team is ready to jump right into the next sprint.
 
-1. What have you accomplished since the last stand-up?
-1. What are you planning on accomplishing between now & the next stand-up?
-1. Are you facing any obstacles with any of your current tasks?
+#### Daily stand-ups
+~15 minutes, every day. The goal: update the team. During the meeting, each member answers 3 questions-
+
+1. What have you accomplished since the last stand-up (i.e. yesterday)?
+1. What are you planning on accomplishing between now & the next stand-up (i.e. tomorrow)?
+1. Any issues?
 
 Note: the product owner's presence is optional for these meetings!
 
-#### Sprint review
-#### Sprint retrospective
+#### Sprint Review
+Time boxed to 4 hrs/ 4 week sprint.
+
+The team showcases everything they've accomplished in the last sprint to the entire dev team + the product owner. This serves as a way to update the entire team on the progress of the project (esp. relevant for large projects) & the product owner gives  feedback regarding the direction of the project & communicates that to the team.
+
+Note: the showcase is a *fun* thing. Meaning- snacks & light-heartedness all around!
+
+The team also looks back on the last sprint, to draw their progress charts, raise any issues (tech-wise) & provide constructive feedback all around.
+
+#### Sprint Retrospective
+The team looks towards themselves & tries to find areas where they can improve. The duration for this stage sees significant variation. The final decision is made with consideration for the project, & what's best for it. Scrum as a framework recommends a 3-hour maximum for a 4-week sprint. However, some teams implement a version as short as 10-15 minutes, where the sprint retrospective meeting becomes more of a huddled discussion.
+
+Like mentioned above, sprint retrospectives' objectives remain the same, no matter the duration. Here are some of the key topics that typical sprint retrospective meetings revolve around.
+
+- What worked well?
+- What can be improved?
+- What are some goals that the team wants to achieve in the next sprint?
+
+Do note that for this last point, it isn't simply a case of identifying big-picture goals. Individual team members are expected to make actionable commitments towards these goals. For example, it isn't sufficient for the team to aim to "have better time management" in the next sprint. Team members should also come forward with commitments like "update my to-do list twice a day & review my tasks' priorities simultaneously".
 
 #### Sprint Review vs Sprint Retrospective
 Sprint reviews are product-oriented, to gather feedback on what has been built in the past print. Whereas sprint retrospectives are team-oriented, with the goal of improving the team's productivity.
@@ -155,7 +174,7 @@ A group of talented people != a good team. An effective, high-functioning team i
 ## The Stages in Group Development
 Breaking this group development process into distinct stages aims to create high-performing teams. The different stages of group development are significant for the differing levels of productivity between them. These productivity levels are visualised below.
 
-![Team Effectiveness against Performance Impact](https://i.imgur.com/HqgUVmC.png)
+<img src="https://i.imgur.com/HqgUVmC.png" width="400">
 
 ### Forming
 Teammates become acquainted with each other. A *first date*, if you will. Some topics of conversation that are likely to come up include-
@@ -225,7 +244,7 @@ Assessment + recognition of teammates' contributions. Then, the group disbands. 
 ## Conflict Resolution Styles
 As people have differing personalities, it thus follows that people have different ways of handling conflict. Here's a widely accepted generalisation of that concept. For a quick overview of the different conflict resolution styles, check out the diagram below.
 
-![Conflict Resolution Styles, Charted](https://i.imgur.com/o8QQtve.png)
+<img src="https://i.imgur.com/o8QQtve.png" width="400">
 
 ### Competing
 These people prioritise, well, winning. They're highly assertive & uncooperative. It's very typically characteristic of these people to be largely goal-oriented, without placing much priority on relationships.
@@ -285,6 +304,25 @@ A list (ordered by priority) of the features to be built into the final product.
 It's important to ensure that the entire team has the same understanding of **done** to prevent any unwanted miscommunications etc.
 
 Note also that the DoD varies not only between teams, but also between different levels (e.g. feature, sprint, or the release).
+
+## Velocity
+Refers to how fast the team works, its productivity, if you will. In science, **velocity = distance / speed**. In agile, *distance* refers to story points & *speed* is measured in terms of sprints.
+
+Therefore, **velocity = story points / number of sprints**. Velocity can be calculated before a project begins, using the project's total story points & the expected duration of the project to get an estimate of how fast the team has to work. Velocity can also be calculated after sprints, to get a gauge of whether the team is on track to completing the project as expected.
+
+Velocity can be charted as a line graph; velocity against sprints. Check it out!
+
+<img src="https://i.imgur.com/USCcRV4.png" width="400">
+
+## Burn down Chart
+Provides a visualisation of the team's progress towards the project's completion. Is typically a line graph, of story points against sprints. Check it out!
+
+<img src="https://i.imgur.com/3VQSVkQ.png" width="400">
+
+## Burn up Chart
+Provides a visualisation of the team's progress throughout the project. Is typically a line graph, of story points against sprints. They are typically preferred for projects with changing total story points. Check it out!
+
+<img src="https://i.imgur.com/FS18etm.png" width="400">
 
 ## The INVEST Framework
 A quick guide to- **is this user story any good?** Try to keep to this framework, & you should be good for the most part.
