@@ -1,160 +1,145 @@
 # Software Development Methodologies
 There is a demand for increasingly complex systems in the IT industry. These systems are very nearly impossible to build without a solid plan. Since it doesn't make sense to devise a project-specific plan from scratch for each project, we have methodologies!
 
-These methodologies, if charted on a spectrum, reveals a range from **predictive, plan-driven** schemes like the Waterfall methodology, to **adaptive, change-driven** schemes like the Agile methodology.
+These methodologies, when charted on a spectrum, reveals a range from **predictive, plan-driven** schemes like the Waterfall methodology, to **adaptive, change-driven** schemes like the Agile methodology.
 
 ## The Waterfall Methodology
-Loosely analogous to construction & manufacturing workflows, in the sense that the waterfall methodology is highly **sequential**, where it's policy of no backtracking is perhaps its most distinctive characteristic.
-
-Projects developed with this methodology typically share several characteristics.
+The Waterfall methodology is loosely analogous to manufacturing workflows. This is in the sense that it's highly **sequential**, where it's policy of no backtracking is perhaps its most distinctive characteristic. Projects developed with this methodology therefore share several key characteristics.
 
 1. (very) **specific & stable project requirements**. It's pretty self-explanatory why.
 
-1. **A need for documentation**. The waterfall methodology's sequential design provides the necessary structure & resources to document the project.
+1. **A need for documentation**. This is made possible by the structure of waterfall methodology's sequential design.
 
-1. **Strict timeline**. Product owners can know how much to expect from their product in their specified amount of time because all the planning for the project happens beforehand.
+1. **Strict timeline**. Product Owners (POs) can get decent estimates- the waterfall methodology is plan-driven, after all.
 
-1. (sometimes) **uninvolved product owner**. The product owner's involvement is only really required in the project requirements specification part of the process. Product owners that don't want to or cannot get involved with the development of their product would therefore opt for this methodology.
+1. **Uninvolved PO**. The PO's involvement is only needed for project requirements specification. POs that don't want to or cannot get involved with the development of their product would therefore opt for this methodology.
 
-1. (relatively) **low importance of speed**. Waterfall is a meticulous process.
+1. (relatively) **low importance for speed**. Waterfall is a meticulous process.
 
-So maybe you have a project you want to embark on. But, you've hit a dilemma- which development methodology?! 😧 Well, here are some advantages & disadvantages of the waterfall methodology. Maybe they'll help.
+So maybe you have a project you want to embark on. But, which software development methodology?! 😧 Here are some advantages & disadvantages of the waterfall methodology. Maybe they'll help.
 
 #### Advantages
-- Future improvements to the program can be made easily, thanks to the methodology's heavy emphasis on meticulous documentation.
+- The methodology's emphasis on meticulous documentation means **future improvements can be made easily**.
 
-- The product owner gets what they asked for, & they know it. Details like size, cost, & timeline are always well-defined.
+- The PO **gets what they asked for**. Details like size, cost, & timeline are always well-defined.
 
-- Low dependence on development team. This goes back to waterfall's thing for documentation. Another developer can pick up from where one left off easily.
+- **Low dependence on development team**. This goes back to waterfall's thing for documentation. Another developer can easily pick up from where one left off.
 
 
 #### Disadvantages
-- Don't even dream of returning to a previous stage!
+- **No backtracking**!
 
-- Better not dream of changing the project's requirements, either!
+- **No changing of requirements**, either!
 
-- You could say that everything hinges on the project's initial requirements. It's do or die.
+- **Everything hinges on the project's initial requirements**. It's do or die.
 
-- Testing only happens at the end of the process 😕 & we all know how errors can cascade.
+- **Late-stage Testing**. We all know how errors can cascade. 😕
 
 ## The Agile Methodology
-In stark contrast to the waterfall methodology, the agile methodology makes use of an incremental approach.
+In stark contrast to the waterfall methodology, the agile methodology makes use of an incremental approach. A project typically begins with a simple set of requirements that are formed with the knowledge that they can be changed. The project is developed in small modules, where testing & deployment happen regularly.
 
-A project typically begins with a simple set of requirements that are formed on the basis of knowing that requirements can be changed whenever. The project is developed in small modules, where testing & deployment happen regularly.
+The same way that waterfall projects share a set of key characteristics, agile projects share several hallmarks.
 
-Of course you'll need a set of advantages & disadvantages, to compare with those of the waterfall methodology.
+1. **Rapid production is important**. Agile is great at producing a market-ready product quickly.
+
+1. PO wants **flexibility** or the project's nature means requirements are susceptible to change mid-development.
+
+1. There is **no strict picture of the final product**. Agile's incremental approach rocks here.
+
+1. **Motivated & skilled developers**.
 
 #### Advantages
-- Changes to the project requirements are not only tolerated, but rather, are expected.
+- **Changing requirements are expected**.
 
-- The systems that are built are up-to-date with current technologies.
+- The resulting systems are **up-to-date**.
 
-- The product owner is able to give feedback in short, regular intervals, so as to ensure that the development process will produce the product they envisioned.
+- **The development process produces the envisioned product** because the PO is expected to give regular feedback.
 
-- Regular testing means bugs are found & fixed early on!
+- Regular testing == **bugs are found & fixed early on**!
 
-- Builds systems that, characteristically, can be deployed whenever. These projects are, therefore, more likely to make good on the product's launch date.
+- Builds systems that **can be deployed whenever**. These projects are thus more likely to make good on the intended launch date.
 
 #### Disadvantages
 - An incompetent project manager can lead to a late & over budget product.
 
-- There is a (significant) chance for the final product to be completely different than what was intended at the beginning of the project.
-
-With these points in mind, there are then of course a set of common features in projects suited to the Agile methodology.
-
-1. **Rapid production is important**. Agile is really good for producing a market-ready product quickly.
-
-1. Product owner wants **flexibility** or the project's nature requires for the requirements to be able to change during the development process.
-
-1. When there is **no strict picture of the final product**. This is where agile's incremental approach rocks.
-
-1. **Motivated & skilled developers**.
+- The **final product could be completely different than what was initially intended**.
 
 ### The Agile Manifesto
 The baseline of The Agile Methodology. Consists of 4 values & 12 principles.
 
 #### The 4 Values of Agile
-- Individuals & Interactions **>** Processes & Tools
-- Working software **>** Comprehensive documentation
-- Customer Collaboration **>** Contract Negotiation
-- Change-driven **>** Plan-driven
+- **Individuals & Interactions** (over Processes & Tools)
+- **Working Software** (over Comprehensive Documentation)
+- **Customer Collaboration** (over Contract Negotiation)
+- **Change-driven** (over Plan-driven)
 
 #### The 12 Guiding Principles of Agile
 1. The Priority- **Customer Satisfaction**. This is accomplished with early & continuous delivery of software.
 
-1. Changing requirements should be **welcomed**.
+1. **Welcome** changing requirements.
 
 1. Software should be **delivered frequently**. This opens up a continuous flow of user/ client feedback.
 
-1. There should be **daily collaboration** between the product owner & the development team. This looks like frequent demos & opportunities to fine tune the project requirements.
+1. There should be **daily collaboration** between the PO & the dev team. This means frequent demos!
 
 1. Build a team of **competent & motivated** developers; provide them with support & trust them to get the job done.
 
-1. Nothing beats **face-to-face conversation**.
+1. Nothing beats **F2F conversation**.
 
 1. Progress is measured by **working software**.
 
-1. **Sustainable development**! Agile development teams should be able to maintain their pace indefinitely.
+1. **Sustainable development**! Agile teams should be able to maintain their pace indefinitely.
 
-1. Applaud **technical excellence & good design**.
+1. Applaud **technical excellence** & **good design**.
 
-1. The goal is to **do the least amount of work possible**.
+1. Aim to **do as little work as possible**.
 
-1. Give the team **autonomy**. Self-organisation beats all other types of organisation.
+1. Give the team **autonomy**. Self-organisation wins the battle.
 
-1. **Frequent retrospectives** work amazingly to help the team increase their productivity.
+1. **Frequent retrospectives** manifest as productivity boosts!
 
-
----
-
-In this module, we will look mainly at the Scrum framework of the Agile methodology.
 
 ## Agile Framework- Scrum
-Lightweight! Is built on **sprints** & maintains light overhead by maximising the time spent doing work. Good for complex projects, as it'll break it down into smaller, more manageable blocks.
+In this module, we study Scrum- an Agile framework. Scrum is .. lightweight! It's made of **sprints** & maintains light overhead by maximising the time spent doing work. Good for complex projects, as it'll break it down into smaller, more manageable blocks.
 
 ### A Sprint
 The building blocks of the Scrum framework. Are typically short blocks that span 2 or 4 weeks. Its stages-
 
 #### Sprint Planning
-Duration: 2 hrs / sprint week. i.e. a 4 week sprint will have a 8 hr sprint planning meeting. In a sprint planning meeting, there are 2 goals to meet-
+2 hrs / sprint week. i.e. a 4 week sprint will have a 8 hr sprint planning meeting (SPM). An SPM has 2 goals-
 
-1. **Product Backlog Review**- (conducted with the product owner) To go over & ensure that the product backlog remains aligned with the product owner's vision of the final product. The team looks at the stories' content, size & their priorities.
+1. **Product Backlog Review**- (conducted with the PO) To ensure the product backlog remains aligned with the PO's vision of the product. The team looks at & re-evaluates the stories' content, size & their priorities.
 
-1. **Sprint Backlog**- Deciding on what is to be built during the coming sprint.
+1. **Sprint Backlog**- Decide the tasks to be completed in the coming sprint.
 
-Basically, the sprint planning meeting (SPM) ensures that the team is ready to jump right into the next sprint.
+Basically, the SPM ensures that the team is ready to jump right into the next sprint.
 
 #### Daily stand-ups
-~15 minutes, every day. The goal: update the team. During the meeting, each member answers 3 questions-
+~15 minutes, every day. The goal: update the team. During the meeting, everyone answers 3 questions-
 
-1. What have you accomplished since the last stand-up (i.e. yesterday)?
-1. What are you planning on accomplishing between now & the next stand-up (i.e. tomorrow)?
+1. What have you accomplished since the last stand-up?
+1. What are you planning on accomplishing by the next stand-up?
 1. Any issues?
 
-Note: the product owner's presence is optional for these meetings!
+Note: the PO's presence is optional for these meetings!
 
 #### Sprint Review
-Time boxed to 4 hrs/ 4 week sprint.
+4 hrs/ 4 week sprint. A product-oriented meeting where the team showcases their accomplishments of the last sprint to the entire team + the PO. This serves as a way to update everyone on the project's progress (esp. relevant for larger projects) & the PO gives  feedback regarding the direction of the project & communicates that to the team.
 
-The team showcases everything they've accomplished in the last sprint to the entire dev team + the product owner. This serves as a way to update the entire team on the progress of the project (esp. relevant for large projects) & the product owner gives  feedback regarding the direction of the project & communicates that to the team.
-
-Note: the showcase is a *fun* thing. Meaning- snacks & light-heartedness all around!
+Note: the showcase is a *fun* thing. Meaning- snacks & light-heartedness!
 
 The team also looks back on the last sprint, to draw their progress charts, raise any issues (tech-wise) & provide constructive feedback all around.
 
 #### Sprint Retrospective
-The team looks towards themselves & tries to find areas where they can improve. The duration for this stage sees significant variation. The final decision is made with consideration for the project, & what's best for it. Scrum as a framework recommends a 3-hour maximum for a 4-week sprint. However, some teams implement a version as short as 10-15 minutes, where the sprint retrospective meeting becomes more of a huddled discussion.
+A team-oriented meeting where the team looks at the team dynamic & tries to find areas for improvement. The duration for this stage varies wildly, depending on the project & what's best for it. Scrum as a framework recommends a 3-hour maximum retrospective for a 4-week sprint. However, some teams implement a version as short as 10-15 minutes, where the sprint retrospective meeting becomes more of a huddled discussion.
 
-Like mentioned above, sprint retrospectives' objectives remain the same, no matter the duration. Here are some of the key topics that typical sprint retrospective meetings revolve around.
+Like mentioned above, sprint retrospectives' objectives remain the same, no matter the duration. Here are the key topics that  retrospectives revolve around.
 
 - What worked well?
 - What can be improved?
 - What are some goals that the team wants to achieve in the next sprint?
 
-Do note that for this last point, it isn't simply a case of identifying big-picture goals. Individual team members are expected to make actionable commitments towards these goals. For example, it isn't sufficient for the team to aim to "have better time management" in the next sprint. Team members should also come forward with commitments like "update my to-do list twice a day & review my tasks' priorities simultaneously".
-
-#### Sprint Review vs Sprint Retrospective
-Sprint reviews are product-oriented, to gather feedback on what has been built in the past print. Whereas sprint retrospectives are team-oriented, with the goal of improving the team's productivity.
+Do note that for this last point, it isn't simply a case of identifying big-picture goals. Individual team members are expected to make actionable commitments. For example, **have better time management** in the next sprint? No bueno. Team members should come forward with commitments like **update my to-do list & review my tasks' priorities twice a day**.
 
 ### Benefits
 - ⬆️ quality of deliverables
@@ -163,61 +148,57 @@ Sprint reviews are product-oriented, to gather feedback on what has been built i
 - Provides better control over the project schedule
 
 ### Non-Benefits
-- No exact deadlines, things are quite in the air
+- No exact deadlines
+
+### Closing notes for the Scrum framework
+After covering so much content related to the scrum framework, you may be inclined to take the points made in this document as the hard & fast truth. However, keep in mind that scrum is really nothing more than a set of guidelines that gives teams a nudge in the right direction. At the end of the day, teams are expected to adjust the scrum process to fit their team's workflow & the project's goals.
+
+If you're interested in reading more about scrum to become a true **professional** 👨🏽‍💻, you can check out [scrum.org](https://www.scrum.org), the [Scrum Alliance page](https://scrumalliance.org) or the [Scrum Guides](https://www.scrumguides.org).
 
 ---
 
 # Group Development
-## The Importance of Group Development
-A group of talented people != a good team. An effective, high-functioning team is cultivated!
+It's easy to overlook the importance of group development. After all, is it not sufficient to get a group of talented workers together? **No!** A group of talented people != a good team. An effective, high-functioning team has to be cultivated into formation!
 
 ## The Stages in Group Development
-Breaking this group development process into distinct stages aims to create high-performing teams. The different stages of group development are significant for the differing levels of productivity between them. These productivity levels are visualised below.
+Breaking this group development process into distinct stages aims to create high-performing teams. These different stages are significant for their differing levels of productivity, as is visualised below.
 
 <img src="https://i.imgur.com/HqgUVmC.png" width="400">
 
-### Forming
-Teammates become acquainted with each other. A *first date*, if you will. Some topics of conversation that are likely to come up include-
+### 1. Forming
+Teammates become acquainted with each other. A *first date*, if you will. Conversation typically revolves around easy topics like **skills & background**, **the project's goals & further details**, etc.
 
-- teammates' skills & their background
-- the project's goals & its timeline
-- some ground rules
-- individual roles
+A lack of productivity at this stage is somewhat expected, since tasks are people-oriented, & team members are focused on getting to know each other rather than on getting work done.
 
-A lack of productivity at this stage is somewhat expected, since tasks are people-oriented, team members are focused on getting to know each other rather than getting work done.
+Of course, nobody wants a team to fail in its wee stages. To avoid this, remember that **Communication is key!** Talk about everything. Talk about skills, interests, & project goals. Make sure that everyone's on the same page. Additionally, you're going to want to remove as much uncertainty as possible. So- **define everyone's role clearly**. This ensures that all job roles are covered & that boundaries are clear to everyone.
 
-#### Tips for sustainability in Forming
-- Communication is key! Talk about everything. Talk about skills, interests, & project goals. Make sure that everyone's on the same page.
-- Define each member's role clearly. This ensures that all job roles are covered & that boundaries are clear to everyone.
+### 2. Storming
+At this point, there is an increased order of communication, though team spirit remains lacking. The leader's word will not be followed. Personalities start to clash, members disagree, & leads to a generally bad time.
 
-### Storming
-Increased order of communication, but don't feel any sense of team fondness. The leader's word will not be followed. Personalities clash, members disagree, & is a generally bad time.
+Some teams try to avoid this stage by, well, avoiding it. This is bad, though! This only encourages the problem(s) to grow until they explode! Survive this stage by keeping these few things in mind-
 
-Some teams try to avoid this stage by, well, avoiding it. This is bad, though! This only encourages the problem(s) to grow until they become explosive!
+- Again, communication is key! Hold a meeting, talk things out.
+- Mediation (either internal or external) is typically a good strategy as well.
+- Keep your eyes on the prize. Don't let your team kill itself over trivialities.
 
-#### Tips for sustainability in Storming
-- Again, communication is key! Hold a meeting, talk it out maturely.
-- Mediation is typically a good strategy as well. (this can be internal or external!!)
-- Keep your eyes on the prize. Don't let your team kill itself over trivial matters.
-
-### Norming
+### 3. Norming
 Team spirit is established! Teammates recognise other teammates' strengths & are able to work together relatively well. This is not to say there are no conflicts in this stage at all. People clash. They just get better at getting over the clashes.
 
-#### Tips for sustainability in Norming
-- Show appreciation for your teammates! This sparks motivation & encourages closer relationships to form.
+Keep things up by-
+
+- Showing appreciation for your teammates! This sparks motivation & encourages closer relationships to form.
 - Again, keep your eyes on the prize. Remind your teammates of the importance of the project.
 - Use past successes to motivate your teammates into continually moving forward,
 
-### Performing
+### 4. Performing
 Teammates work in an open, trusting atmosphere with high productivity, like a well-oiled machine! Everyone is motivated & confident about their skills & value to the team. This is the era of Highest Productivity, the era that all teams strive to attain.
 
-Do note that some teams never make it this far. Some teams get caught up in the storming stage & find themselves unable to overcome their conflicts.
+Do note that some teams never make it this far. Some teams get caught up in the storming stage & find themselves unable to overcome their conflicts. 😦 However, the best teams can maintain these levels of productivity. Here are some tips for becoming one of these teams-
 
-#### Tips for sustainability in Performing
 - Delegation is super impt!
 - Indirect management is the way to go!
 
-### Adjourning
+### 5. Adjourning
 Assessment + recognition of teammates' contributions. Then, the group disbands. 😕
 
 
