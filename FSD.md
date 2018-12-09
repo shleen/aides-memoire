@@ -203,6 +203,8 @@ Assessment + recognition of teammates' contributions. Then, the group disbands. 
 
 
 ## Common Values found in Successful Teams
+The same way we're able to identify the stages of group development, it follows that we can abstract the values that successful teams have in common.
+
 1. **Psychological Safety**- a trust to share honest opinions.
 1. **Dependability**- a trust that teammates will get what needs to be done, done.
 1. **Structure & Clarity**- having clear roles & goals.
@@ -211,7 +213,8 @@ Assessment + recognition of teammates' contributions. Then, the group disbands. 
 
 
 # Conflict Resolution
-## How Conflict Arises in Group Development
+Here are some examples of how conflict can arise within a group. Note, however, that this list is **by no means exhaustive**.
+
 - Unhealthy competition between teammates.
 - Misunderstanding of job roles or requirements.
 - Interdependence i.e. one teammate relies on another to get their work done.
@@ -219,7 +222,7 @@ Assessment + recognition of teammates' contributions. Then, the group disbands. 
 - Disagreements in strategy or execution.
 - Lack of focus on the goals that really matter.
 - Poor delegation.
-- Unproductive culture. e.g. a culture where teammates are accustomed to simply pushing the blame of missing a deadline to another teammate.
+- Unproductive culture e.g. teams where it's commonplace to push the blame of missing a deadline to another teammate.
 
 
 ## Conflict Resolution Styles
@@ -228,40 +231,32 @@ As people have differing personalities, it thus follows that people have differe
 <img src="https://i.imgur.com/o8QQtve.png" width="400">
 
 ### Competing
-These people prioritise, well, winning. They're highly assertive & uncooperative. It's very typically characteristic of these people to be largely goal-oriented, without placing much priority on relationships.
+These people prioritise, well, winning. They're highly assertive & uncooperative. It's very typically characteristic of these people to be largely goal-oriented, with low priority on relationships. Their assertiveness can, at times, cross the boundary into aggressiveness. This means they are often perceived as intimidating individuals. Their need to win means that there is, more often than not, someone on the losing end.
 
-Their assertiveness can, at times, cross the border into aggressiveness & are often perceived as being intimidating. Their need to win means that there is typically someone on the corresponding losing end.
-
-**+ / -** This conflict resolution style is good when the person's decision is, in fact, the best decision. However, this conflict resolution style commonly breeds hostility & resentment.
+**👍🏻 / 👎🏻** This conflict resolution style is good when the person's decision is, in fact, the best decision. On the other hand, this conflict resolution style commonly breeds hostility & resentment.
 
 ### Collaborating
-These people aim to look for a win-win situation in everything. They're highly assertive, but also highly cooperative. This style shows a value for goals as well as relationships.
+These people aim to make all situations into a win-win situation. They're highly assertive, but also highly cooperative. This style shows a value for goals as well as relationships.
 
-**+ / -** This conflict resolution is great because at the end of the day everyone gets what they want & theres no hostility. The only downside is that this method takes a lot of time & effort.
+**👍🏻 / 👎🏻** This conflict resolution is great because at the end of the day everyone gets what they want & theres no hostility. The only downside is that this method takes a lot of time & effort.
 
 ### Compromising
-Not dissimilar to the collaborative conflict resolution style, people that take to compromise in conflict resolution are very moderate. They're moderately assertive, & moderately cooperative.
+Not dissimilar to the collaborative style just covered, people that take to compromise to resolve conflicts are ..moderate. They're moderately assertive, & moderately cooperative. These people value both goals & relationships. However, the fact that collaborative resolvers are steadfast in trying to find the best possible solution means they'd give up on some of their own values if others are willing to do the same, so that both parties can meet in the middle.
 
-Like the collaborative conflict resolution style, these people value goals & relationships. However, the way that collaborative resolvers are steadfast in trying to find the best possible solution, these resolvers are willing to give up on some of their own values if that means that others are also willing to give up on some of their values so both parties can meet in the middle.
-
-**+ / -** Relationships are maintained & conflicts are resolved. However, compromise can mean that the final outcome may be less than ideal. Also, this opens up avenues for manipulation.
+**👍🏻 / 👎🏻** Relationships are maintained & conflicts are resolved. However, compromise can mean that the final outcome may be less than ideal. Also, this opens up avenues for manipulation.
 
 ### Avoiding
-These people simply don't want to deal with conflict of any kind. They're very unassertive & uncooperative.
+These people simply don't want to deal with conflict of any kind. They're very unassertive & uncooperative. In the face of conflict, they give up their goals easily & remain largely passive. This means that they often end up in lose-lose situations.
 
-In the face of conflict, they give up their goals easily & remain passive to the situation. This means that they often end up in lose-lose situations.
-
-**+ / -** No harm done to relationships, since they simply refuse to partake in conflict resolution. However, the conflicts remain unresolved & people thus tend to be perceived as pushovers.
+**👍🏻 / 👎🏻** No harm done to relationships, since they refuse to partake in conflict resolution. However, the conflicts remain unresolved & thus they tend to be perceived as pushovers.
 
 ### Accommodating
-These people are ..afraid to get on people's wrong side. They are often highly cooperative to whatever view is presented to them & are very unassertive. They prioritise relationships (unlike competing resolvers!).
+These people are ..afraid to get on people's wrong side. They are often highly cooperative to whatever view is presented to them & are very unassertive. They prioritise relationships over goals. Put in the middle of a conflict, they can relinquish their goals if others are then able to achieve their goals. This typically manifests as a win-lose situation where the resolver is on the losing end.
 
-Put in the middle of a conflict, they are able to give up on their own goals if it means that others are able to achieve their goals. This typically manifests as a win-lose situation where the resolver is on the losing end.
-
-**+ / -** Relationships are kept in top-notch conditions, though it leaves them in a position where they are likely to be taken advantage of.
+**👍🏻 / 👎🏻** Relationships are kept in top-notch conditions, though it leaves them highly susceptible to be taken advantage of.
 
 # misc. Jargon
-Some terms you are likely to come across on your journey through the world of software development.
+Some terms you are likely to come across as you traipse through the world of software development.
 
 ## Inception Deck
 Your project, in a nutshell. It's not a pitch, in that it should cover more than just the flashy bits. It's really an attempt to iron out all possible kinks before even encountering them. This means deciphering details like..
@@ -275,25 +270,25 @@ Your project, in a nutshell. It's not a pitch, in that it should cover more than
   - Innovation
 - **The NOT List**- Clarifies the project's scope. What features can be expected to be included? What features are straight no-gos?
 - **The Solution**- Great for setting expectations straight. This is a good time to express concerns regarding possible risks & the planned tech stack!
-- **(rough) Timeline**- Useful for setting expectations straight- in terms of time, manpower, budget, etc.
-- **Priorities**- How will the team side? Refers to things like scope, budget, time, & quality.
+- **(rough) Timeline**- Sets expectations in terms of time, manpower, & budget straight.
+- **Priorities**- In a pinch, how will the team side? Refers to things like scope, budget, time, & quality.
 
 ## Product Backlog
-A list (ordered by priority) of the features to be built into the final product. The act of maintaining & ordering this list falls on the product owner.
+A list (ordered by priority) of the features to be built into the final product. The act of maintaining & ordering this list falls on the PO. Do also note that this list is not set in stone after a one-time discussion. This list is fluid & expected to be kept as up-to-date as possible.
 
 ## Definition of Done (DoD)
 It's important to ensure that the entire team has the same understanding of **done** to prevent any unwanted miscommunications etc.
 
-Note also that the DoD varies not only between teams, but also between different levels (e.g. feature, sprint, or the release).
+Note also that the DoD varies not only between teams, but also between different levels (e.g. feature, sprint, or the release). The level of complete-ness to signify a completed feature may not suffice to signify a completed release.
 
 ## Velocity
-Refers to how fast the team works, its productivity, if you will. In science, **velocity = distance / speed**. In agile, *distance* refers to story points & *speed* is measured in terms of sprints.
+How fast the team works. Its productivity, if you will. In science, **velocity = distance / speed**. In agile, **distance** refers to story points & **speed** is measured in terms of sprints.
 
 Therefore, **velocity = story points / number of sprints**. Velocity can be calculated before a project begins, using the project's total story points & the expected duration of the project to get an estimate of how fast the team has to work. Velocity can also be calculated after sprints, to get a gauge of whether the team is on track to completing the project as expected.
 
-Velocity can be charted as a line graph; velocity against sprints. Check it out!
+Velocity can be charted as a line graph of velocity against sprints, to provide a visualisation of the team's productivity. Check it out!
 
-<img src="https://i.imgur.com/USCcRV4.png" width="400">
+<img src="https://i.imgur.com/miMPcL4.png" width="400">
 
 ## Burn down Chart
 Provides a visualisation of the team's progress towards the project's completion. Is typically a line graph, of story points against sprints. Check it out!
@@ -301,7 +296,7 @@ Provides a visualisation of the team's progress towards the project's completion
 <img src="https://i.imgur.com/3VQSVkQ.png" width="400">
 
 ## Burn up Chart
-Provides a visualisation of the team's progress throughout the project. Is typically a line graph, of story points against sprints. They are typically preferred for projects with changing total story points. Check it out!
+Provides a visualisation of the team's progress throughout the project. Is typically a line graph, of story points against sprints. These are typically preferred for projects with changing total story points. Check it out!
 
 <img src="https://i.imgur.com/FS18etm.png" width="400">
 
@@ -324,5 +319,3 @@ Simple, & logical! What more could you ask for? 😧
 Like triangulation, planning poker is an estimation technique used for user story sizing.
 
 In planning poker, each member of the team first sizes all user stories (typically using the Fibonacci numbers with arbitrary units). Then, the entire team's estimates are compared & if everyone's estimates are similar, the team sticks with it. Otherwise, the team discusses the matter until a consensus is reached.
-
-Ta-da! ✨
