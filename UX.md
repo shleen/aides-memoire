@@ -101,16 +101,94 @@ With your newly constructed persona, a user journey can be then conjured. This i
 
 In this phase of the UXD lifecycle, we look at two aspects of content analysis.
 
-### Content Audit
-- Content Inventory
-- Content Audit
-- Content Templates
-- Content Flow
+### Content Strategy
+The planning, creation, & delivery of ..content. This includes tasks like filtering the relevant, useful content & structuring this content to provide the best possible user experience.
+
+#### Content Inventory
+This means taking stock of all your content. i.e. all text, images, & documents. Some guiding questions to keep in mind during this phase include-
+
+- What content do we have?
+- How is it organised?
+- Who creates it?
+- Where is it housed?
+
+#### Content Audit
+Where the filtered content from before is evaluated for its (a) quality & (b) effectiveness. More guiding questions!
+
+- What's the content's *point*?
+- Is it accurate?
+- How about useful?
+- Does the audience even use it?
+- Is it written professionally?
+- Is it ..user-friendly?
+
+This process is great, because it provides valuable insights like which pages have the highest conversion rate & which pages are irrelevant (& hence can & should be removed). On top of that, it serves as a pointer towards how you should handle this content. Here's a cool diagram for you visual learners 🤤
+
+<img src="https://i.imgur.com/ChR5xby.png" width="500">
+
+#### Content Templates
+Provides a rough outline of (a) what content should be included & (b) the format in which this content should be displayed.
+
+Contains meta-data covering details like
+- Page title
+- Primary message
+- Purpose of the page
+- Content guidelines
+
+#### Editorial Calendar
+An organiser for planning content to be published. Takes into consideration details like- the actual **content to publish**, a **prioritised list**  of things to publish, **effort required**, & **publishing destination**.
+
+The real pros are past pen n paper. They've moved onto tools like Google Calendar or specialist software like DivvyHQ. Productivity + 100 😲
+
+#### Content Flow
+Determines how content moves through the editorial process, from its first conjugation all through the approval process, up to when it goes live.
 
 ### Content Organisation
-- Card Sorting
-- Sitemap
-- Information Architecture
+#### Information Architecture
+Structuring & classification of the content that can be found on a website. Is typically undertaken with the goal of making information more easily accessible to users.
+
+Some of the tasks include-
+- Transform raw data (all that *content*) into visible structures.
+- Creation of a productive navigation system & content organisation. (i.e. sitemap)
+- Identify relevant cross-links between content.
+
+
+#### Sitemap
+Provides a high-level depiction of the site's overall structure. There are several sitemap models that can be commonly found on the web, each serving a different purpose.
+
+- **Strict Singular Hierarchy**
+
+  <img src="https://i.imgur.com/KTUVPJL.png" width="200">
+
+  Use of this model means that users can only access lower-level pages from its direct parent. This is useful in modelling a similar relationship in real-life, for example- arranging a company's office website pages based on their country. Or, websites with message boards that have multiple threads that each have their own set of posts.
+
+- **Multi-Dimensional**
+
+  <img src="https://i.imgur.com/FF3FNaA.png" width="200">
+
+  Use of this model means that there are typically multiple ways to browse to the same content. For example, Amazon. Say, you're looking for a book to purchase. You might find it through browsing by genre, but you could also find it by browsing by title. In a way, you could say that this is an overlay of multiple hierarchies.
+
+- **Hub**
+
+  <img src="https://i.imgur.com/ClHyL4O.png" width="150">
+
+  Suitable for sites with multiple distinct linear workflows. Each workflow doesn't overlap, & each layer of navigation will bring you deeper into the workflow. Perhaps the most common use of this model are email applications, where the inbox signifies the homepage & different tasks (e.g. sending an email, adding a contact) signifies a distinct workflow.
+
+- **Search Driven**
+
+  <img src="https://i.imgur.com/6Dtb5gp.png" width="200">
+
+  Very good for quick access to content! Provides dynamic content views! Particularly beneficial for sites with large amounts of content & would like to not have users browse through hierarchies or indexes.
+
+
+#### Card Sorting
+A method to produce a site's information architecture, by getting user input.
+
+- **Open Sorting**
+  Users are provided with a set of cards, each labelled to represent a subsection of the site. Users go ham. This method is used when the design team has sufficient time, (it's quite a long process), when there is no existing navigational structure, or if you'd like to do a complete overhaul of the current navigational structure.
+
+- **Closed Sorting**
+  Users receive the same cards from before but instead of having them go ham, they instead sort these cards into pre-determined categories.
 
 
 ## 3. Design
