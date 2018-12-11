@@ -197,6 +197,33 @@ Apply yo design principles!
 ### Interface
 We look at navigation design & layout.
 
+#### Navigation Design
+Serves to orientate & guide users. Tackles key questions like-
+
+##### Types of Navigation
+- **Global (Primary) Navigation**<br>
+  Provides users with the broadest access to content in the site. Global navigation is typically kept to a maximum of **7** tabs, all of which remain **static & prominent** across the site. Gives the user their **current location**.
+
+- **Secondary Navigation**<br>
+  Provides access to the next level of items beneath the items in the global navigation. e.g. horizontal sub-navbar (think Singtel) or a left vertical navbar. Gives the user their **current location**.
+
+- **Breadcrumb Navigation**<br>
+  Are either **path-based** or **location-based**. Path-based breadcrumbs are **dynamically** generated, & depict the path taken by the user to reach the page they're currently on. In contrast, location-based breadcrumbs are **statically** generated, & depict the page the user is currently on in relation to the site's hierarchy.
+
+  This navigational layout is valuable for how users can navigate to previous pages (or pages higher in the site hierarchy) with one click. Is expected of larger sites that house deeper content hierarchies. Depicts **where the user came from**.
+
+- **Contextual Navigation**<br>
+  Links from the body of a web page to other relevant (but not present in the user's current location). e.g. hyperlinks in a paragraph, or "You might also like..." sections in e-commerce sites. This navigational layout is commonly used with the wish for users to *explore*. Be wary, however, for this navigational layout can really only be done well with a superb understanding of the user base. Tells the user where they can go **from here**.
+
+- **Search-based Navigation**<br>
+  Is the holy-grail for users that know exactly what they want. This navigational layout is gaining traction, as navigation through websites is becoming an intuitive skill for growing population. However, this navigational layout is almost never used as a website's chief navigation, for obvious reasons. Rather, it's used as supplementation to a more traditional navigational layout like global navigation. How users can **get somewhere else**.
+
+- **Faceted Navigation**<br>
+  A plugin to the traditional search- users can now filter results on a web page by a set of pre-determined attributes. This adds *dimensionality* to the traditional search, & is almost a standard for e-commerce sites offering products of various types. Part of its charm comes from the fact that these facets are chosen by the user themselves, thus providing a type of user-customised search. How users can **get somewhere else**.
+
+
+#### Layout
+
 ### Interaction
 - Learnability
 - Memorability
