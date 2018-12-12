@@ -292,7 +292,7 @@ Visual design. We can actually break it down into 7 main principles.
   Bridges warm & dark colours & provides an energy that also speaks relaxation??!? Commonly signifies +/ve growth!
 
   **Blue** <br>
-  Light blues fels safe & inviting, & are therefore used by social sites like Facebook & Twitter. Dark blues, on the other hand, gives off an overwhelming calmness, that feels more somber than light blues. Is therefore commonly tied with impressions of professionalism.
+  Light blues feels safe & inviting, & are therefore used by social sites like Facebook & Twitter. Dark blues, on the other hand, gives off an overwhelming calmness, that feels more somber than light blues. Is therefore commonly tied with impressions of professionalism.
 
   **Purple** <br>
   Feels luxurious & royal, with lighter shades giving off romantic vibes whereas darker shades carry a sense of mystery.
