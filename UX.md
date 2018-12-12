@@ -419,12 +419,3 @@ If you won't trust intuition, you have to trust numbers! Receive metrics (someti
 Speaking of conversion rates... <mark style='background: rgb(210,210,210)'>did you know</mark>? Use of hamburger menus have been found to increase conversion rates (in comparison to visible navigation)!
 
 ### UX Checklist Summary
-
-# UXD Roles
-There is actually a wide range of responsibilities required in UXD. In this module, we'll cover some of the more crucial roles.
-
-## UXD Director
-
-## Content Producer
-
-## UX Designer
