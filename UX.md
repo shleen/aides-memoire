@@ -341,10 +341,10 @@ Visual design. We can actually break it down into 7 main principles.
   It's important to be able to understand that the number of elements on a page correlates directly with the amount of impact each element has. Also, more space on a page is typically linked with luxury. Nobody's attracted to a cluttered site!
 
 #### Mixing Colours
-- **Monochromatic**- using different shades of one colour. Is visually appealing, & are commonly found in minimalist designs. Feels *elegant*.
 - **Analogous**- using neighbouring colours on the colour wheel. Is typically made of a primary colour that is most dominant, supplemented by a less intense secondary element, & completed by a third accent colour. Also visually appealing, while being easy on the eyes. Good if you want more diversity than monochromatic schemes can provide! Gives off a calming, harmonious vibe.
-- **Complementary**- using opposing colours on the colour wheel to create a dynamic, stimulating visual. Good for content that aims to be easily digested, but not so for pages intending to give off calming vibes. Works best with saturated colours!
 - **Triadic**- very safe! using a set of three colours that form an equilateral triangle on the colour wheel. Good for the fact that it appeals to a large audience, though not that good for calling attention to specific sections of a page.
+- **Complementary**- using opposing colours on the colour wheel to create a dynamic, stimulating visual. Good for content that aims to be easily digested, but not so for pages intending to give off calming vibes. Works best with saturated colours!
+- **Monochromatic**- using different shades of one colour. Is visually appealing, & are commonly found in minimalist designs. Feels *elegant*.
 
 ### Images
 It's not uncommon to hear people preach about the usefulness of images. Today, we uncover the basis of that stance.
