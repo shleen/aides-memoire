@@ -304,7 +304,7 @@ Visual design. We can actually break it down into 7 main principles.
   Oh, clean & pure, virtuous white! Works wonders in drawing attention to more stimulating elements, so consider using white as a supporting colour in these situations.
 
   **Grey** <br>
-  Feels neutral. Though, it's ability to convey a wide spectrum of emotions should be overlooked! Just think about how light greys make you feel differently from dark greys!
+  Feels neutral. Though, it's ability to convey a wide spectrum of emotions shouldn't be overlooked! Just think about how light greys make you feel differently from dark greys!
 
   Read 'til the end to find out about how colours are mixed to amplify their emotional impact!
 
