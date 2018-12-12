@@ -139,7 +139,7 @@ Determines how content moves through the editorial process, from its first conju
 Structuring & classification of the content that can be found on a website. Is typically undertaken with the goal of making information more easily accessible to users.
 
 Some of the tasks include-
-- Transform raw data (all that *content*) into visible structures.
+- Transform raw data into visible structures.
 - Creation of a productive navigation system & content organisation. (i.e. sitemap)
 - Identify relevant cross-links between content.
 
@@ -169,7 +169,7 @@ Provides a high-level depiction of the site's overall structure. There are sever
 
   <img src="https://i.imgur.com/6Dtb5gp.png" width="200">
 
-  Very good for quick access to content! Provides dynamic content views! Particularly beneficial for sites with large amounts of content & would like to not have users browse through hierarchies or indexes.
+  Very good for quick content access! Provides dynamic content views! Particularly beneficial for sites with large amounts of content & would like to not have users browse through hierarchies or indexes.
 
 
 #### Card Sorting
@@ -189,7 +189,7 @@ Apply yo design principles!
 We look at navigation design & layout.
 
 #### Navigation Design
-Serves to orientate & guide users. Tackles key questions like-
+Serves to orientate & guide users.
 
 ##### Types of Navigation
 - **Global (Primary) Navigation**<br>
