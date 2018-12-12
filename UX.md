@@ -17,39 +17,38 @@ As with any team, it's paramount that tasks are delegated systematically. Here a
 
 - **Content Producer**
   - Responsible to maintain the harmony between content & design.
-  - Works with the design team & client to ensure that both groups' visions remain aligned.
+  - Ensures the visions of the UXD team & the client are aligned.
 
 - **UX Designer**
   - Initially- spend time gaining full understanding of the project's context & target users.
   - Then- produce design artefacts like wireframes & storyboards.
 
 # The User Experience Design (UXD) Lifecycle
-The subject of user experience is far from trivial. It's illogical to dive head-first into designing a product & hold any reasonable expectation to produce an award-winning design. Creation of a good user experience is a long & detailed process. Naturally, we've developed a paradigm that hopes to provide some semblance of structure to the UXD process.
+The subject of user experience is far from trivial. It's illogical to dive head-first into designing a product & hold any reasonable expectation to produce an award-winning design. Creation of a good UXD is a long & detailed process. Naturally, we've developed a paradigm that hopes to provide some semblance of structure to the UXD process.
 
 It is a collection of methods that form a design process where user experience is the prime concern. A good approach to this is **challenging the status quo**- i.e. being able to recognise existing pain points & develop effective (& sometimes novel) methods of alleviating them. Good user experience, however, is only possible if an **optimal balance** is maintained between providing the best experience for the user & keeping within time & monetary constraints.
 
 With all that said, here are the 4 stages of the UXD lifecycle.
 
 ## 1. Understand
-The first stage, arguably the most important stage, refers to gaining a comprehensive, accurate understanding of the project's requirements & its target users. This stage is Essential! It ensures that your assumptions are lined up with the users' ground truth. Here we have some tried & tested methods that will bring you that much closer to true enlightenment.
+The goal of this first stage is- to gain comprehensive, accurate understanding of the project's requirements & its target users. This stage is Essential for it ensures that your assumptions are lined up with the users' ground truth. Here we have some tried & tested methods that will bring you that much closer to enlightenment.
 
 ### User Analysis
-Here we'll cover a smattering of user research methods. However, taking the point of **optimal balance** mentioned above, it's important to be able to identify the most suitable research method(s) for the project at hand. A good way to figure this one out is- looking at the target users.
+Here we'll cover a smattering of user research methods. 8 of them, to be specific. However, going back to the point of **optimal balance**, it's important to be able to identify the most suitable research method(s) for each project. You could probably figure this one out by looking at the target users.
 
-Target users can first be either **internal** or **external**. & more specifically, internal users could refer to specific individuals or entire departments in an organisation while external users could refer to groups like suppliers or citizens.
+Target users can first be either **internal** or **external**. More specifically, internal users refers to specific individuals or entire departments in an organisation while external users refers to groups like suppliers or citizens.
 
-For an illustration- conducting **focus groups** would serve to benefit a product that caters to an organisation's department a great deal more than one that caters to all citizens of a nation.
+For an illustration- conducting **focus groups** would serve to benefit a product that caters to an organisation's department a great deal more than one that caters to all Singaporeans.
 
-#### User Research Methods (8 of them)
-- **Ethnography** Methods- actually following people around as they live their lives to try & understand their behaviour & culture.
-- **Day in the Life**- cataloguing a person's daily activities using graphics & comic strips. Note that these activities include those outside the scope of the product. We're trying to gain a complete understanding of the person.
-- **Eye Tracking**- Using specialised tools to identify how the user's attention is spread out when using a product. Useful for things like advertisements or search results.
-- **Contextual Inquiry**- An interviewer observes a user interacting with a system. The interviewer then interviews the user.
-- **Focus Groups**- pointed discussion among 5-12 individuals, typically moderated by a domain expert.
-- **F2F Interviews**- wireframes/ a prototype is typically used as a prompt. Is very widely used but can be thought of as artificial or inefficient.
+#### User Research Methods
 - **Card Sorting**- Users are given cards, indicative of the product's different functions & are asked to sort them into logical groups. Great for getting a good grasp of the users' mental models.
+- **Contextual Inquiry**- An interviewer observes a user interacting with a system. The interviewer then interviews the user.
+- **Day in the Life**- cataloguing a person's daily activities using graphics & comic strips. Note that these activities include those outside the scope of the product. We're trying to gain a complete understanding of the person.
+- **Ethnography**- Following people around their lives to try & understand why they live the way they live. Ethnography is so powerful because people are often unable to articulate what they want from a product or service. Ethnography is then able to figure out for the people what it is they want. Note that this observation is non-directed, which leads to ethnography's downside- it's inefficient.
+- **Eye Tracking**- Using specialised tools to identify how the user's attention is spread out when using a product. Useful for things like advertisements or search results.
 - **Persona**- Fictional character(s) formed through the team's understanding of the target audience. Requires some basis of user research but is great for keeping the team's design efforts on track throughout the design process.
-
+- **F2F Interviews**- wireframes/ a prototype is typically used as a prompt. Is very widely used but can be thought of as artificial or inefficient.
+- **Focus Groups**- pointed discussion among 5-12 individuals, typically moderated by a domain expert.
 
 Though there is no lack of user research methods that can be used by UXD teams, it still should be noted that it's not uncommon for teams to be faced with challenges. A common challenge faced by these designers is their **inability to translate their findings**. This means that they can carry out the research, they can collect the data. But, they're stuck there. They don't know how to translate the data into meaningful insights. On top of this, teams trying to design a completely novel product may face difficulty during research due to the **lack of precedence**. The best way to handle this is really to make as much use as possible of tools like wireframes & prototypes.
 
