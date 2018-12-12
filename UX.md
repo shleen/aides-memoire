@@ -350,7 +350,7 @@ Visual design. We can actually break it down into 7 main principles.
 It's not uncommon to hear people preach about the usefulness of images. Today, we uncover the basis of that stance.
 
 #### The benefits of Images
-- Images can convey much more **information** than text can. Actually, **6** times more information. Additionally, people have better recall for images (as compared to it's plain text counterpart). Follow these few tips for Maximum Effectiveness!
+- Images can convey much more **information** than text can. Actually, **6** times more information. Follow these few tips for Maximum Effectiveness!
   1. Avoid using similar images (this basically counteracts all the benefits of using images)
   1. Use images with consistent style/ subject
   1. Strive to use unique, memorable images
@@ -367,22 +367,19 @@ It's not uncommon to hear people preach about the usefulness of images. Today, w
 #### Types of Image Styles
 1. **Illustrations**. Appropriate in situations where realism isn't the top priority, or when a diagram/ flowchart would aid the process of getting the point across to the user.
 1. Use of a **mascot**. Is a manifestation of your brand's design. The best mascots are *dynamic*! They're super effective for creating emotional connections with your users (which increases conversions!). You can use them in step-by-step guides over static text on a page!
-1. Don't underestimate an image's **background**! They're super powerful in reinforcing your point. Changing the background of an image/ page adds dimensionality to your site while keeping some extent of consistency, so your users don't get motion sick.
-
-  If you do opt to use a background video, here are some points you should keep it relatively short, without sound. Do also pay attention to load times & cross-device compatibility. Please also use only quality videos!
+1. Don't underestimate an image's **background**! They're super powerful in reinforcing your point. Changing the background of an image/ page adds dimensionality to your site while keeping some extent of consistency, so your users don't get motion sick. If you do opt to use a background video, here are some points you should keep it relatively short, without sound. Do also pay attention to load times & cross-device compatibility. Please also use only quality videos!
 1. Personalisation. This is in terms of your brand, to set yourselves apart from your competitors. If your budget can handle it, custom images would go a long way. It'll not only make your brand more memorable, you'll also be able to convey your points more succinctly & effectively.
 
 #### Engaging Storytelling- a How To
-- **Make your user into the subject of the story**. e.g. use any personal information you have to provide personalised stats or functions.
 - **Gamify** your site. Create a system of risk & reward, where users can gain some type of reward (some visual change works *wonders*) for completing a task. This gratification goes a long way with people! Think Todoist's karma system! Use of this technique needs careful calibration, though! This technique can be used to cultivate user habits. First, provide some visual **cue**. This cue should cause them to do some **routine** task. Once done, **reward** them. Make use of this cue-routine-reward loop!
 - Inject **interactivity** into common actions. This means making use of text & images to add value to clicking & scrolling. e.g. scroll-triggered animations or enticing search-bar placeholder text.
-- **Easter eggs**! This means well-hidden features or messages. This is almost a type of gamification that adds a layer of excitement to the experience. Sites suited for this method are- gaming-related sites, giveaway sites, or sites whose aim is to provide lighthearted fun to their users. e.g. Google's Atari Breakout hidden in the image search results.
 - **Big picture thinking**. You are, after all, trying to tell a story. It doesn't hurt to give it a bit of structure. This is at least for the beginning, middle, & end of the site.
 
   **Beginning**- where you plant your stimulus! This means things like promotions & contest banners. <br>
   **Middle**- your hook! Engage your users! Show off your shiny testimonials, awards. <br>
   **End**- go in for the kill! Place your call to actions here! Buy Now! or contact information, etc.
-
+- **Easter eggs**! This means well-hidden features or messages. This is almost a type of gamification that adds a layer of excitement to the experience. Sites suited for this method are- gaming-related sites, giveaway sites, or sites whose aim is to provide lighthearted fun to their users. e.g. Google's Atari Breakout hidden in the image search results.
+- **Make your user into the subject of the story**. e.g. use any personal information you have to provide personalised stats or functions.
 
 ## 4. Validate
 So you spent all this time & effort to birth design. However, is it **good**?
