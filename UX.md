@@ -231,27 +231,166 @@ Here, we explore a wealth of content presentation strategies.
   Favoured not uncommonly for the possible use of icons (pictorials!) that allows apps to convey *more with less*, & even show off a bit of their design if they so desire!
 
 - **List**<br>
-  Like springboards, lists let users jump right into the application content.
+  Like springboards, lists let users jump right into the application content. Are particularly useful for long titles or sites that require that extra bit of text in their labels. Conveys simplicity & coherence.
 
 - **Tab**<br>
+  Can be used as an app's primary navigation, meaning it's static across all pages in the app. Good for multiple functions with similar priorities.
+
 - **Gallery**<br>
+  Using a thumbnail image (+ maybe a short title) to display a gallery of content. Particularly pertinent for content that sees frequent updates.
+
 - **Slide to Reveal**<br>
+  A list that's revealed by clicking on a hamburger button or swiping into the page. When revealed, takes the form of a list. Suitable for longer lists of items!
+
+We place so much emphasis on content layout because people don't read anymore, they just **scan**. It's thus important to create a visual hierarchy using these layout elements & other tricks (like font colour or size) to ensure that users can get the most out of our site in the least amount of time.
 
 ### Interaction
-- Learnability
-- Memorability
-- Error-proneness
-- Efficiency
-- Engagement
+Interaction design revolves around 5 key points.
+
+- **Engagement** <br>
+  The site should be **pleasant** to use. A good strategy is a liberal use of visuals in immersive interfaces that are able to provide users with some measure of **personalisation**.
+
+- **Memorability** <br>
+  This refers to the ease with which a user can use an interface when they return to it after a period of time. Is achieved using **conventions** & **standards**, for obvious reasons. These tactics tap on the knowledge users have from life in general & are reinforced in the users' everyday lives (even when not interacting with your product). A good measure for the importance of memorability is the frequency with which users are expected to use the product. Higher frequencies typically translate to proportionally higher importance for memorability.
+
+  For example, ATMs & cab booking apps. Users don't want to have to re-learn the entire system every time they make a transaction. They want quick, snappy, & smooooth experiences.
+
+- **Error-proneness** <br>
+  This means 2 things- first, that errors should be prevented wherever possible. Achieve this by implementing client-side input validation & preceding permanent changes with warning messages. Next, when errors do eventually happen, they should be relatively easy to recover from. This means accompanying any errors with helpful messages that will provide more aid than frustration, & giving users the autonomy to undo & redo their actions.
+
+  **How to write a Good Error Message** <br>
+  You're going to want to keep it precise & clear, with 3 points.
+  - providing **notification** that something went wrong
+  - a **diagnosis** of the error
+  - the best **course of action**
+
+  tip: inject some of that human-juice into it with a tinge of humour <br>
+  also! spend time on your 404 page! think **helpful**
+
+- **Efficiency** <br>
+  Any task should require only as much work as is minimally necessary. As a designer, it's important to keep all types of users in mind! Provide step-by-step guides for novice users & useful shortcuts for power users. Keeping your tasks intuitive also helps with this!
+
+- **Learnability** <br>
+  This refers to how quickly users can complete a task the first time they encounter it. The goal should always be to minimise cognitive load. Again, this is where conventions & standards should be followed. Expecting users to completely relearn a process they're already familiar is painfully unproductive.
+
+  **3 Ways to Design a Learnable Interface**
+  1. **Metaphor** <br>
+    Drawing parallels between the new interface & a mental model that the user probably already has. This makes use of the users' instincts, & aids in reducing the mental effort required of a user when taking on novel tasks. An example of this in action is- the use of a gear icon to symbolise the settings page.
+
+  1. **Affordance** <br>
+    Visual cues. These serve as suggestion to how a user should act in the face of a new task, & also serves to reduce mental effort required of them. For example, *push* doors without handles.
+
+  1. **Progressive Disclosure** <br>
+    As can be inferred by its name, this means presenting users with only the information necessary to accomplish the current task. For example, using collapsible divisions in a web page. (note, though, that the first division should be open, to provide users with affordance of how it works)
 
 ### Visual
-- Contrast
-- Repetition
-- Alignment
-- Proximity
-- Colours
-- Typography
-- Space
+Visual design. We can actually break it down into 7 main principles.
+
+- **Contrast**- Refers to the juxtaposition of multiple elements with differing colours or typefaces. Very effective in creating visual interest!
+
+- **Repetition**- Makes use of the our brains' tendency to search for patterns in everything. Encourages the transition from short to long-term memory, thus improving recall. Some standard applications of repetition- the colour of buttons & page layouts.
+
+- **Alignment**- Just, don't place anything *in the middle of nowhere*. Elements on a page should be related to one another, in one way or another.
+
+- **Proximity**- Aids content organisation, which gets increasingly important as the amount of content grows. Make use of the fact that our brains are able to form links between elements in close proximity & create visual units. A good rule of thumb is that elements should be visually grouped as they are intellectually grouped.
+
+- **Colours**- so! much! potential! Let's see..
+
+  **Red** <br>
+  Highly stimulating & energising, immensely effective for catching attention. Gives off a powerful vibe that isn't that effective if you're trying to keep your users relaxed. Explains why fast-food restaurants *love* red.
+
+  **Orange** <br>
+  Like red, is energising, though to a smaller degree. Is therefore more effective in relaying cheerfulness, over red's powerful-ness.
+
+  **Yellow** <br>
+  Is interesting because its difference in shade & vibrancy translates to a difference in impact. Is generally warm & energetic, though bright yellows are **extremely** stimulating while middle shades feel warm & welcoming & darker shades like gold give off a unique timelessness.
+
+  **Green** <br>
+  Bridges warm & dark colours & provides an energy that also speaks relaxation??!? Commonly signifies +/ve growth!
+
+  **Blue** <br>
+  Light blues fels safe & inviting, & are therefore used by social sites like Facebook & Twitter. Dark blues, on the other hand, gives off an overwhelming calmness, that feels more somber than light blues. Is therefore commonly tied with impressions of professionalism.
+
+  **Purple** <br>
+  Feels luxurious & royal, with lighter shades giving off romantic vibes whereas darker shades carry a sense of mystery.
+
+  **Black** <br>
+  Use of black as a main colour is typically discouraged. Rather, look into using black to support & enhance some other colours. Make use of the subtle sense of power & sophistication that it exudes.
+
+  **White** <br>
+  Oh, clean & pure, virtuous white! Works wonders in drawing attention to more stimulating elements, so consider using white as a supporting colour in these situations.
+
+  **Grey** <br>
+  Feels neutral. Though, it's ability to convey a wide spectrum of emotions should be overlooked! Just think about how light greys make you feel differently from dark greys!
+
+  Read 'til the end to find out about how colours are mixed to amplify their emotional impact!
+
+- **Typography** <br>
+  We can cover the great big world of typography sufficiently comprehensively with **3** basic principles.
+
+  1. **Type Categories**- serif vs sans-serif typefaces.
+  1. **Type Families**- i.e. light, regular, bold, italic, etc.
+  1. **Letterform shapes & strokes**- the width of the lines in each character. Uniform stroke between characters is the way to go!
+
+  **Use of typography in design**
+  - **Oversized lettering**- meaning dominating over other elements, with its large size & heavy weight. Here are some ways this is achieved.
+    1. Colour. Using straight black or white text over a super bright background.
+    1. Alignment. L, R, or centralised.
+    1. Caps. Deliberate caps.
+    1. Deliberately Large. Almost causes a sense of discomfort. But great for grabbing attention.
+  - **Super Small**- is then typically black, with thicker stroke to counteract the small-ness. Can be used to create contrast, with large text or images.
+  - **Integration with Images**- emphasises the impact of the text or image by putting them together. Note that it's important to ensure that the image & text are conveying the same point. Otherwise, this could cause unwanted confusion. Also, don't go blockin' key parts of the image...
+    1. Type **in** Image- instead of the text having a solid colour fill, it's filled with an image. Note to use large, strong type here.
+    1. Type **on** Image- just, text juxtaposed onto an image.
+    1. Type **with** Image-
+  - **Embellishment**- e.g. adding drop shadows or artistic flourishes to text.
+  - **Custom Type**- especially pertinent for things like logos or branding where you want to give off a specific vibe. Be wary though, there is a lot of work that goes into creating a custom type behind the scenes! e.g. ensuring cross-browser & device compatibility.
+
+- **Space** <br>
+  It's important to be able to understand that the number of elements on a page correlates directly with the amount of impact each element has. Also, more space on a page is typically linked with luxury. Nobody's attracted to a cluttered site!
+
+#### Mixing Colours
+- **Monochromatic**- using different shades of one colour. Is visually appealing, & are commonly found in minimalist designs. Feels *elegant*.
+- **Analogous**- using neighbouring colours on the colour wheel. Is typically made of a primary colour that is most dominant, supplemented by a less intense secondary element, & completed by a third accent colour. Also visually appealing, while being easy on the eyes. Good if you want more diversity than monochromatic schemes can provide! Gives off a calming, harmonious vibe.
+- **Complementary**- using opposing colours on the colour wheel to create a dynamic, stimulating visual. Good for content that aims to be easily digested, but not so for pages intending to give off calming vibes. Works best with saturated colours!
+- **Triadic**- very safe! using a set of three colours that form an equilateral triangle on the colour wheel. Good for the fact that it appeals to a large audience, though not that good for calling attention to specific sections of a page.
+
+### Images
+It's not uncommon to hear people preach about the usefulness of images. Today, we uncover the basis of that stance.
+
+#### The benefits of Images
+- Images can convey much more information than text can. Actually, **6** times more information. Additionally, people have better recall for images (as compared to it's plain text counterpart). Follow these few tips for Maximum Effectiveness!
+  1. Avoid using similar images (this basically counteracts all the benefits of using images)
+  1. Use images with consistent style/ subject
+  1. Strive to use unique, memorable images
+- Use of images over text provides **accessibility** benefits. As an example, it's more likely for populations (including possibly illiterate elderly) to be able to understand images as compared to a long paragraph of text. Beware, however, that this *picture superiority effect* is less pronounced (possibly to the point of a disadvantage) in children.
+- **Better retention**. It's been found that users are able to retain **6** times the information of a site (after 3 days) that makes use of images to supplement text as compared to sites that use only textual content.
+- **Quicker processing**- users process visual information **60,000** times faster than their textual counterparts. This benefit is especially prominent in sites for complex products that would otherwise need a significant amount of text to get their job done.
+- **Instant evocation of emotions**. Perfect for the purposes of telling a story or making an impactful point. Do avoid this if your point is to evoke relaxation!
+
+#### Types of Images
+1. **Iconic** images. These are universal, literal images that even people unfamiliar with these images are able to get a general meaning. e.g. female/ male restroom symbols, or an icon of a trash can to indicate a deletion task. There's little need for these images to be labelled! The images themselves *are* the labels.
+1. **Symbolic** images. These images are one order above iconic images in terms of their abstraction. They are able to convey a general meaning, though people unfamiliar with them would need a nudge in the right direction in order to understand it correctly.
+1. **Indexical** images. Your typical images that are able to *speak a thousand words*.
+
+#### Types of Image Styles
+1. **Illustrations**. Appropriate in situations where realism isn't the top priority, or when a diagram/ flowchart would aid the process of getting the point across to the user.
+1. Use of a **mascot**. Is a manifestation of your brand's design. The best mascots are *dynamic*! They're super effective for creating emotional connections with your users (which increases conversions!). You can use them in step-by-step guides over static text on a page!
+1. Don't underestimate an image's **background**! They're super powerful in reinforcing your point. Changing the background of an image/ page adds dimensionality to your site while keeping some extent of consistency, so your users don't get motion sick.
+
+  If you do opt to use a background video, here are some points you should keep it relatively short, without sound. Do also pay attention to load times & cross-device compatibility. Please also use only quality videos!
+1. Personalisation. This is in terms of your brand, to set yourselves apart from your competitors. If your budget can handle it, custom images would go a long way. It'll not only make your brand more memorable, you'll also be able to convey your points more succinctly & effectively.
+
+#### Engaging Storytelling- a How To
+- **Make your user into the subject of the story**. e.g. use any personal information you have to provide personalised stats or functions.
+- **Gamify** your site. Create a system of risk & reward, where users can gain some type of reward (some visual change works *wonders*) for completing a task. This gratification goes a long way with people! Think Todoist's karma system! Use of this technique needs careful calibration, though! This technique can be used to cultivate user habits. First, provide some visual **cue**. This cue should cause them to do some **routine** task. Once done, **reward** them. Make use of this cue-routine-reward loop!
+- Inject **interactivity** into common actions. This means making use of text & images to add value to clicking & scrolling. e.g. scroll-triggered animations or enticing search-bar placeholder text.
+- **Easter eggs**! This means well-hidden features or messages. This is almost a type of gamification that adds a layer of excitement to the experience. Sites suited for this method are- gaming-related sites, giveaway sites, or sites whose aim is to provide lighthearted fun to their users. e.g. Google's Atari Breakout hidden in the image search results.
+- **Big picture thinking**. You are, after all, trying to tell a story. It doesn't hurt to give it a bit of structure. This is at least for the beginning, middle, & end of the site.
+
+  **Beginning**- where you plant your stimulus! This means things like promotions & contest banners. <br>
+  **Middle**- your hook! Engage your users! Show off your shiny testimonials, awards. <br>
+  **End**- go in for the kill! Place your call to actions here! Buy Now! or contact information, etc.
 
 
 ## 4. Validate

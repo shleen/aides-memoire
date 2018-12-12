@@ -105,27 +105,19 @@ That's it. Empty cells.
 - power transform
   - fixes negatively skewed data
 
-### Data Sampling Methods
-Splitting the data into 2 chief sets- the training set & the testing set. You know what they do.
-
-- **Simple Split** <br>
-  Definitely the most common way of splitting data. Data is randomly selected (without replacement) to form the training & testing sets. Is typically a **70/30** split.
-
 # Predictive Modeling I
 
 ## Linear Regression
-Used to predict a **continuous** target variable. For example- salary, age, distance between two points, etc. Are also known as **estimators** or **regression models**. A linear regression is, essentially, the best fit linear equation that graphs the output of the target variable with respect to the input variable(s).
+Used to predict a **continuous** target variable. For example- salary, age, distance between two points. Are also known as **estimators** or **regression models**. A linear regression is, essentially, the best fit linear equation that graphs the output of the target variable with respect to the input variable(s).
 
 Regression models exhibit **supervised learning**, the facet of machine learning where models learn an algorithm by training with a set of data that forms the ground truth.
 
-```
-y = b₀ + b₁x₁ + b₂x₂ + ... + b𝑛x𝑛
-```
+**Notational Representation**- `y = b₀ + b₁x₁ + b₂x₂ + ... + b𝑛x𝑛`
 
 ### R-squared Value
 A metric commonly used with linear regressions to determine the accuracy of the regression model. The r-squared value lies between 0 & 1, where an r-squared value of 0 indicates a lack of correlation whereas an r-squared value of 1 indicates a completely dependent relation.
 
-Any r-squared value **.7 & above** is indicative of a **strong relationship**.
+Any r-squared value **.7 & above** is indicative of a **strong relationship** or **good fit**.
 
 
 ## Model Assessment
@@ -141,3 +133,25 @@ In this module, we focus on assessing a model through its predictive accuracy. T
 
 1. **Simple Split**- Split the data into 2 sets (a training set & a testing set). The split is typically a **70/30** split.
 1. **k-fold Cross Validation**- Split the data into k (mutually exclusive) subsets. Conduct the training k times, rotating the subset to be used as the testing set. Then, attain predictive accuracy as an aggregation of the k sets of test results.
+
+Let's look at **simple split**, used in the context of a classification problem. So we've got 2 sets of data. This doesn't tell us anything about the model's accuracy, though 🤔. Let's fix that. First, pass your training data into your model. That is, input & target variable included. This is called **training** your model. Then, give your model just the input data of your testing data & get it to predict those records' target variable. Then, we can crunch the numbers! 😮
+
+<img src="https://i.imgur.com/To3Q76d.png" style="width:500px;margin:2% 5%"><br>
+<img src="https://i.imgur.com/crpRkMF.png" style="width:500px;margin:2% 5%"><br>
+<img src="https://i.imgur.com/Ul9z1Tz.png" style="width:430px;margin:2% 5%"><br>
+
+<img src="https://i.imgur.com/E5Rmyfl.png" style="width:380px;margin:1% 5%"><br>
+<img src="https://i.imgur.com/Y8Ryr6h.png" style="width:380px;margin:1% 5%"><br>
+<img src="https://i.imgur.com/vTBA3pq.png" style="width:350px;margin:1% 6%"><br>
+
+All these metrics lie between **0 & 1**. For the accuracies, a value closer to 1 is the ideal, & vice versa for the errors.
+
+## Logistic Regression
+Used to predict a **categorical** target variable. For example, a dog's breed or a person's blood type. Are also known as **classifiers**. Here's the notational representation, also called the **logistic curve**.
+
+<img src="https://i.imgur.com/mEgm2nr.png" style="width:250px;margin:2% 0">
+
+Logistic models output values that lie between 0 & 1. A **decision boundary** is usually set at **0.5**, to classify the model's output (for a binary target variable). We then come to talk about the **types** of logistic regressions.
+
+- **Binomial**- where the target variable is binary.
+- **Multinomial**- where the target variable is more than binary! For instance, blood type.
