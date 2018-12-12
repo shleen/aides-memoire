@@ -90,13 +90,7 @@ Sheds light on the current competition landscape. Is achieved through collaborat
     - remember user preference
 
 ## 2. Analyse
-So you've done your research. Now, make sense of it. Some common methods include forming **personas** & conjuring **user journeys**.
-
-A persona is a fictional character constructed from the data collected from user research. The goal is typically to construct a representation of the project's target audience. This method is great for keeping UX designers focused on designing for the target users during the design process.
-
-With your newly constructed persona, a user journey can be then conjured. This is, essentially, a *Day in the Life* that catalogues the daily activities of The Persona. User journeys can include an assorted mix of media- graphics, animations, what have you. User journeys, in comparison to personas, are able to provide more structure.
-
-In this phase of the UXD lifecycle, we look at two aspects of content analysis.
+So you've done your research. Now, make sense of it. In this phase of the UXD lifecycle, we look at two aspects of content analysis.
 
 ### Content Strategy
 The planning, creation, & delivery of ..content. This includes tasks like filtering the relevant, useful content & structuring this content to provide the best possible user experience.
