@@ -223,6 +223,19 @@ Serves to orientate & guide users. Tackles key questions like-
 
 
 #### Layout
+Here, we explore a wealth of content presentation strategies.
+
+- **Springboard**<br>
+  Is effective for presenting users with a content overview- the main functions available & such, to which users are able to *jump* right into. This would explain its name 🧐. Holds value in it's **customisability**. Users could choose their most frequently used functions that they'd like direct access to.
+
+  Favoured not uncommonly for the possible use of icons (pictorials!) that allows apps to convey *more with less*, & even show off a bit of their design if they so desire!
+
+- **List**<br>
+  Like springboards, lists let users jump right into the application content.
+
+- **Tab**<br>
+- **Gallery**<br>
+- **Slide to Reveal**<br>
 
 ### Interaction
 - Learnability

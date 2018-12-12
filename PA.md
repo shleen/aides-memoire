@@ -1,3 +1,116 @@
+**Analytics. Why do we do it?** We'd like to be able to, from historical information, glean valuable insights that can lead to better estimations & forecasts.
+
+**Describe the 2 major problems that PA attempts to solve & provide 1 real-life example of each.**<br>
+PA aims, chiefly, to solve **(a) classification** & **(b) regression** problems. Classification problems aim to predict a continuous categorical variable using a data record's various features. An example of a classification problem is- predicting a person's age based on their music library. Regression problems, on the other hand, aim to predict a continuous target variable's value from a raw data record, using (again) its various features. As an example, trying to predict the value of a company's stock the next week is a regression problem.
+
+#### Types of Data
+All data falls into 2 very distinct data types. Namely, **numerical** & **categorical** data. The difference should be obvious. Within categorical data, though, there exists another binary split- **nominal** & **ordinal** data. Nominal data refers to any 'ol categorical data- say, gender, for example- whereas ordinal data can be ranked. For example, education or academic grades.
+
+
+### PA vs BI
+**How variables of interest are identified** <br>
+in BI, these variables are largely **user-driven**. This process is thus dependent on our understanding of the raw data. <br>
+in PA, these variables are, conversely, **data-driven**. They're chosen by the model after a thorough consideration of all possible patterns.
+
+**How analytics is carried out** <br>
+in BI, analysis is typically **retrospective**. We're looking at historical data to find a pattern.
+in PA, analysis is **futuristic**. We're looking for a way to predict what will happen.
+
+### CRISP-DM
+Cross Industry Standard Process for Data Mining- a description of the predictive modelling process.
+
+1. **Business Understanding** <br>
+  Before a project can begin, it has to be defined. So, experts are brought in to elicit the objectives of the project. These experts can be **domain experts**, **data experts**, or **predictive modelling experts**.
+
+  **Domain Experts** are people with specialised knowledge that can help to frame the problem. Really, this just refers to the users. **Data Experts** are people that can identify the available data & determine how it can be normalised such that it can be useful to the project. **Predictive Modelling Experts** are the ones that builds the models & magicks the magic.
+
+2. **Data Understanding** <br>
+  Refers to preliminary analysis of the data- data preprocessing. This stage therefore includes things like checking for any problems in the data, to determine the quality of the data.
+
+3. **Data Preparation** <br>
+  Cleaning the data- raw data is **ugli**! Includes tasks like data transformation & the identification of a **target variable**- the value to be estimated or predicted.
+
+4. **Modelling** <br>
+  Forming a good, problem-dependent model.
+
+5. **Evaluation** <br>
+  A good model scores well in both accuracy & interpretation!
+
+6. **Deployment** <br>
+  It's possible to deploy models before completion, as a baseline model, to either get a sense of which variables are good features or to identify potential obstacles with deployment.
+
+### SEMMA
+Sample, Explore, Modify, Model, & Assess- A logical organization of tools useful in data mining.
+
+**Sample**- Extracting from the data set a portion large enough to contain significant information, yet small enough to be easy to manipulate.
+<br>
+**Explore**- Searching for unanticipated trends to gain understanding using visualisations, or statistical techniques like mean, median, etc.
+<br>
+**Modify**- Transformation of the data, for it to become more useful. e.g. removing unrelated variables & handling outliers.
+<br>
+**Model**- build! the! model!
+<br>
+**Assess**- Think reliability, think accuracy.
+
+## Data Understanding
+This is typically the first step in the predictive modelling process. During this stage, the summary statistics are computed, trends are examined, & visualisations made. These actions will prove to be helpful in later stages where problems like missing values or outliers have to be identified & handled appropriately.
+
+### Normal Distribution
+aka Gaussian Distribution
+
+- Symmetric
+- mean = median = mode
+
+
+- **68%** lies within **1** σ of μ
+- **95%** lies within **2** σ of μ
+- **99.7%** lies within **3** σ of μ
+
+## Data Preparation
+In this stage, the dataset is cleansed & feature transformation can take place.
+
+### Outliers
+- **+/-**  **3** σ from μ
+- < Q1 - 1.5 IQR || > Q3 + 1.5 IQR
+
+
+- types of outliers
+  - **single-dimensional**- fit the bill, for ONE variable
+  - **multi-dimensional**- fit the bill, for SEVERAL variables
+
+- handling outliers
+  - **remove**- please only do this if it's fine to ignore entire data records
+  - **Outlier Model**- you might be short of data for this. If so, feel free to loosen the definition of outliers to anything outside of 2 σ from μ.
+  - **Feature Scaling**- use that min-max normalisation!
+  - **Binning**- note that this is very effective when used, but can only be used if it doesn't affect the record's credibility & or validity.
+  - Life's short, **leave 'em**.
+
+### Missing Values
+That's it. Empty cells.
+
+- handling missing values
+  - delete the row
+  - delete the column (if it's not relevant to the project objective)
+  - impute with a constant (e.g. mean, median)
+
+### Feature Scaling Methods (numeric variables)
+- log transform
+  - range (0, ∞)
+  - fixes positively skewed data
+- sigmoid
+  - for categorical target variables
+- min-max normalisation
+  - for continuous target variable
+- z-score
+- power transform
+  - fixes negatively skewed data
+
+### Data Sampling Methods
+Splitting the data into 2 chief sets- the training set & the testing set. You know what they do.
+
+- **Simple Split** <br>
+  Definitely the most common way of splitting data. Data is randomly selected (without replacement) to form the training & testing sets. Is typically a **70/30** split.
+
 # Predictive Modeling I
 
 ## Linear Regression
