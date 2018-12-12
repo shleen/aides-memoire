@@ -376,9 +376,9 @@ It's not uncommon to hear people preach about the usefulness of images. Today, w
 - **Big picture thinking**. You are, after all, trying to tell a story. It doesn't hurt to give it a bit of structure. This is at least for the beginning, middle, & end of the site.
 
   **Beginning**- where you plant your stimulus! This means things like promotions & contest banners. <br>
-  **Middle**- your hook! Engage your users! Show off your shiny testimonials, awards. <br>
+  **Middle**- your hook! Engage your users! Show off your shiny testimonials & awards. <br>
   **End**- go in for the kill! Place your call to actions here! Buy Now! or contact information, etc.
-- **Easter eggs**! This means well-hidden features or messages. This is almost a type of gamification that adds a layer of excitement to the experience. Sites suited for this method are- gaming-related sites, giveaway sites, or sites whose aim is to provide lighthearted fun to their users. e.g. Google's Atari Breakout hidden in the image search results.
+- **Easter eggs**! This means well-hidden features or messages. These add a layer of excitement to the experience. Sites suited for this method are- gaming-related sites, giveaway sites, or sites whose aim is to provide lighthearted fun to their users. e.g. Google's Atari Breakout hidden in the image search results.
 - **Make your user into the subject of the story**. e.g. use any personal information you have to provide personalised stats or functions.
 
 ## 4. Validate
