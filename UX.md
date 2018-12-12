@@ -41,12 +41,12 @@ Target users can first be either **internal** or **external**. More specifically
 For an illustration- conducting **focus groups** would serve to benefit a product that caters to an organisation's department a great deal more than one that caters to all Singaporeans.
 
 #### User Research Methods
-- **Card Sorting**- Users are given cards, indicative of the product's different functions & are asked to sort them into logical groups. Great for getting a good grasp of the users' mental models.
-- **Contextual Inquiry**- An interviewer observes a user interacting with a system. The interviewer then interviews the user.
-- **Day in the Life**- cataloguing a person's daily activities using graphics & comic strips. Note that these activities include those outside the scope of the product. We're trying to gain a complete understanding of the person.
+- **Card Sorting**- Users are given cards that represent the product's functions & are asked to sort them into logical groups. This provides immense help to researchers in discovering how users understand & categorise information.
+- **Contextual Inquiry**- An interviewer observes a user interacting with a system. The interviewer then poses directed, strategic practical questions to the user.
+- **Day in the Life**- cataloguing a person's daily activities using graphics & comic strips. We're trying to observe & understand their daily routine.
 - **Ethnography**- Following people around their lives to try & understand why they live the way they live. Ethnography is so powerful because people are often unable to articulate what they want from a product or service. Ethnography is then able to figure out for the people what it is they want. Note that this observation is non-directed, which leads to ethnography's downside- it's inefficient.
 - **Eye Tracking**- Using specialised tools to identify how the user's attention is spread out when using a product. Useful for things like advertisements or search results.
-- **Persona**- Fictional character(s) formed through the team's understanding of the target audience. Requires some basis of user research but is great for keeping the team's design efforts on track throughout the design process.
+- **Persona**- Fictional character(s) formed based on the team's understanding of the target audience. Requires some prior user research or data but is great for keeping the team's design efforts on track throughout the design process.
 - **F2F Interviews**- wireframes/ a prototype is typically used as a prompt. Is very widely used but can be thought of as artificial or inefficient.
 - **Focus Groups**- pointed discussion among 5-12 individuals, typically moderated by a domain expert.
 
