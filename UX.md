@@ -79,8 +79,6 @@ Sheds light on the current competition landscape. Is achieved through collaborat
     - enjoyable 😺
     - users' mental models
     - user-friendly language
-    - relevant & useful
-    - level of user control
 1. **Efficient**
     - concise content structure
     - responsive
