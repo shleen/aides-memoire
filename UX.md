@@ -132,7 +132,7 @@ An organiser for planning content to be published. Takes into consideration deta
 The real pros are past pen n paper. They've moved onto tools like Google Calendar or specialist software like DivvyHQ. Productivity + 100 😲
 
 #### Content Flow
-Determines how content moves through the editorial process, from its first conjugation all through the approval process, up to when it goes live.
+Determines how content moves through the editorial process, from its first conjuring all through the approval process, up to when it goes live.
 
 ### Content Organisation
 #### Information Architecture
