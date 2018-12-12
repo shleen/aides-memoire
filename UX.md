@@ -277,14 +277,6 @@ Interaction design revolves around 5 key points.
 ### Visual
 Visual design. We can actually break it down into 7 main principles.
 
-- **Contrast**- Refers to the juxtaposition of multiple elements with differing colours or typefaces. Very effective in creating visual interest!
-
-- **Repetition**- Makes use of the our brains' tendency to search for patterns in everything. Encourages the transition from short to long-term memory, thus improving recall. Some standard applications of repetition- the colour of buttons & page layouts.
-
-- **Alignment**- Just, don't place anything *in the middle of nowhere*. Elements on a page should be related to one another, in one way or another.
-
-- **Proximity**- Aids content organisation, which gets increasingly important as the amount of content grows. Make use of the fact that our brains are able to form links between elements in close proximity & create visual units. A good rule of thumb is that elements should be visually grouped as they are intellectually grouped.
-
 - **Colours**- so! much! potential! Let's see..
 
   **Red** <br>
@@ -315,6 +307,14 @@ Visual design. We can actually break it down into 7 main principles.
   Feels neutral. Though, it's ability to convey a wide spectrum of emotions should be overlooked! Just think about how light greys make you feel differently from dark greys!
 
   Read 'til the end to find out about how colours are mixed to amplify their emotional impact!
+
+- **Repetition**- Makes use of the our brains' tendency to search for patterns in everything. Encourages the transition from short to long-term memory, thus improving recall. Some standard applications of repetition- the colour of buttons & page layouts.
+
+- **Alignment**- Just, don't place anything *in the middle of nowhere*. Elements on a page should be related to one another, in one way or another.
+
+- **Proximity**- Aids content organisation, which gets increasingly important as the amount of content grows. Make use of the fact that our brains are able to form links between elements in close proximity & create visual units. A good rule of thumb is that elements should be visually grouped as they are intellectually grouped.
+
+- **Contrast**- Refers to the juxtaposition of multiple elements with differing colours or typefaces. Very effective in creating visual interest!
 
 - **Typography** <br>
   We can cover the great big world of typography sufficiently comprehensively with **3** basic principles.
