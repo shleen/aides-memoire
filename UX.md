@@ -56,40 +56,40 @@ Though there is no lack of user research methods that can be used by UXD teams, 
 Sheds light on the current competition landscape. Is achieved through collaboration with multiple experts, using **heuristic evaluation**- making direct comparisons with design's best practices. This can prove to be extensively useful, with its ability to obtain quick & inexpensive feedback. These heuristic evaluation techniques are covered in detail below.
 
 #### Heuristic Evaluation
-1. **Made for Humans**
-  - enjoyable 😺
-  - users' mental models
-  - user-friendly language
-  - relevant & useful
-  - level of user control
-1. **Accessible**
-  - legible text
-  - unnecessary animations
-  - colour-blind users
-  - assistive technology compatibility
-1. **Self-Evident**
-  - clear context + target audience
-  - easy to navigate
-  - logical layout
-  - icons + graphics that make sense
-1. **Efficient**
-  - concise content structure
-  - responsive
-  - prioritise important tasks
 1. **Forgiving**
-  - prevent errors
-  - errors are explanatory & easy to recover from
-  - minimal mental workload 🧠
-1. **Predictable**
-  - consistent
-  - use of conventions
-  - good user input defaults
-  - remember user preference
+    - prevent errors
+    - errors are explanatory & easy to recover from
+    - minimal mental workload 🧠
+1. **Accessible**
+    - legible text
+    - unnecessary animations
+    - colour-blind users
+    - assistive technology compatibility
 1. **Trustworthy**
-  - accurate
-  - up-to-date
-  - no bugs 🙅🏽‍
-  - keeps its promises
+    - accurate
+    - up-to-date
+    - no bugs 🙅🏽‍
+    - keeps its promises
+1. **Self-Evident**
+    - clear context + target audience
+    - easy to navigate
+    - logical layout
+    - icons + graphics that make sense
+1. **Made for Humans**
+    - enjoyable 😺
+    - users' mental models
+    - user-friendly language
+    - relevant & useful
+    - level of user control
+1. **Efficient**
+    - concise content structure
+    - responsive
+    - prioritise important tasks
+1. **Predictable**
+    - consistent
+    - use of conventions
+    - good user input defaults
+    - remember user preference
 
 ## 2. Analyse
 So you've done your research. Now, make sense of it. Some common methods include forming **personas** & conjuring **user journeys**.
