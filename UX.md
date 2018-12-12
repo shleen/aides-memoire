@@ -341,7 +341,7 @@ Visual design. We can actually break it down into 7 main principles.
   It's important to be able to understand that the number of elements on a page correlates directly with the amount of impact each element has. Also, more space on a page is typically linked with luxury. Nobody's attracted to a cluttered site!
 
 #### Mixing Colours
-- **Analogous**- using neighbouring colours on the colour wheel. Is typically made of a primary colour that is most dominant, supplemented by a less intense secondary element, & completed by a third accent colour. Also visually appealing, while being easy on the eyes. Good if you want more diversity than monochromatic schemes can provide! Gives off a calming, harmonious vibe.
+- **Analogous**- using neighbouring colours on the colour wheel. Is typically made of a primary colour that is most dominant, supplemented by a less intense secondary element, & completed by a third accent colour. Is visually appealing, while being easy on the eyes. Good if you want more diversity than monochromatic schemes can provide! Gives off a calming, harmonious vibe.
 - **Triadic**- very safe! using a set of three colours that form an equilateral triangle on the colour wheel. Good for the fact that it appeals to a large audience, though not that good for calling attention to specific sections of a page.
 - **Complementary**- using opposing colours on the colour wheel to create a dynamic, stimulating visual. Good for content that aims to be easily digested, but not so for pages intending to give off calming vibes. Works best with saturated colours!
 - **Monochromatic**- using different shades of one colour. Is visually appealing, & are commonly found in minimalist designs. Feels *elegant*.
@@ -350,14 +350,14 @@ Visual design. We can actually break it down into 7 main principles.
 It's not uncommon to hear people preach about the usefulness of images. Today, we uncover the basis of that stance.
 
 #### The benefits of Images
-- Images can convey much more information than text can. Actually, **6** times more information. Additionally, people have better recall for images (as compared to it's plain text counterpart). Follow these few tips for Maximum Effectiveness!
+- Images can convey much more **information** than text can. Actually, **6** times more information. Additionally, people have better recall for images (as compared to it's plain text counterpart). Follow these few tips for Maximum Effectiveness!
   1. Avoid using similar images (this basically counteracts all the benefits of using images)
   1. Use images with consistent style/ subject
   1. Strive to use unique, memorable images
-- Use of images over text provides **accessibility** benefits. As an example, it's more likely for populations (including possibly illiterate elderly) to be able to understand images as compared to a long paragraph of text. Beware, however, that this *picture superiority effect* is less pronounced (possibly to the point of a disadvantage) in children.
 - **Better retention**. It's been found that users are able to retain **6** times the information of a site (after 3 days) that makes use of images to supplement text as compared to sites that use only textual content.
-- **Quicker processing**- users process visual information **60,000** times faster than their textual counterparts. This benefit is especially prominent in sites for complex products that would otherwise need a significant amount of text to get their job done.
+- Use of images over text provides **accessibility** benefits. As an example, it's more likely for populations (including possibly illiterate elderly) to be able to understand images as compared to a long paragraph of text. Beware, however, that this *picture superiority effect* is less pronounced (possibly to the point of a disadvantage) in children.
 - **Instant evocation of emotions**. Perfect for the purposes of telling a story or making an impactful point. Do avoid this if your point is to evoke relaxation!
+- **Quicker processing**- users process visual information **60,000** times faster than their textual counterparts. This benefit is especially prominent in sites for complex products that would otherwise need a significant amount of text to get their job done.
 
 #### Types of Images
 1. **Iconic** images. These are universal, literal images that even people unfamiliar with these images are able to get a general meaning. e.g. female/ male restroom symbols, or an icon of a trash can to indicate a deletion task. There's little need for these images to be labelled! The images themselves *are* the labels.
