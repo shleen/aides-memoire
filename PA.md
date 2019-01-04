@@ -155,3 +155,42 @@ Logistic models output values that lie between 0 & 1. A **decision boundary** is
 
 - **Binomial**- where the target variable is binary.
 - **Multinomial**- where the target variable is more than binary! For instance, blood type.
+
+## Decision Trees
+Used to predict a **categorical** target variable. Therefore, also known as **classifiers**.
+
+Some characteristics of decision trees-
+
+- No need for data transformation
+- Can handle both nominal & continuous inputs
+
+Some commonly used stopping conditions for decision trees-
+
+- Maximum tree depth
+- Minimum number of records in terminal nodes
+- Minimum number of records in parent node
+- Some sophisticated bs
+
+**Decision Tree Pruning**- used to reduce the likelihood of overfitting- this means your model learns the noise on top of the actual signal.
+
+
+## Ref ref Ref
+**Building a linear regression model** Week 4 Practical 4 Page 4
+
+**Building a logistic regression model** Week 5 Practical 5 Page 5
+
+
+**Data Sampling (simple split)** Week 4 Practical 4 Page 2
+
+```r
+sample_size <- 300
+
+# sample data of "sample_size"
+all_set = sample(1:length(dat[,1]), sample_size, replace = FALSE)
+dat <- dat[all_set, ]
+
+# sample data with 70/30 ratio and split into "train_dat" and "test_dat"
+index_train <- sample(1:nrow(dat), 0.7*nrow(dat))
+train_dat <- dat[index_train, ]
+test_dat <- dat[-index_train,]
+```
