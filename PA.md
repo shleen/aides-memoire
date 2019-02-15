@@ -55,6 +55,29 @@ Sample, Explore, Modify, Model, & Assess- A logical organization of tools useful
 ## Data Understanding
 This is typically the first step in the predictive modelling process. During this stage, the summary statistics are computed, trends are examined, & visualisations made. These actions will prove to be helpful in later stages where problems like missing values or outliers have to be identified & handled appropriately.
 
+We're looking to answer questions like
+- is the data good?
+- is the data clean?
+- is the data relevant for our purposes?
+- is the data useful?
+
+### (some) Visualizations
+- Histogram
+
+  Provides visualization of a single numeric variable. Each bar is technically called a *bin*, & these bins display the count of the variable within a fixed range. Typically used to elicit the distribution of a variable across a dataset.
+
+- Scatterplot
+
+  Visualization of two-dimensional data. Is generally good for getting a visual gauge of the correlation (or lack thereof) between the plotted variables.
+
+- Scatterplot Matrices
+
+  A table of scatterplots. Shows relationships between several pairs of variables. This is typically for a set of under 10 variables.
+
+- Bar Graph
+- Box Plot
+- Correlation Matrix
+
 ### Normal Distribution
 aka Gaussian Distribution
 
@@ -65,6 +88,18 @@ aka Gaussian Distribution
 - **68%** lies within **1** σ of μ
 - **95%** lies within **2** σ of μ
 - **99.7%** lies within **3** σ of μ
+
+### Uniform Distribution
+When visualised, you'll find that uniform distributions are also symmetric.
+
+- mean = median != mode
+- found in RNGs
+
+### Categorical Variables- some things to look out for
+- get the number of levels (e.g. 2 for gender, 50 for the states in America)
+- any unknown/ unexpected values to handle?
+- any missing values? how should they be handled?
+- general distribution
 
 ## Data Preparation
 In this stage, the dataset is cleansed & feature transformation can take place.
@@ -104,6 +139,20 @@ That's it. Empty cells.
 - z-score
 - power transform
   - fixes negatively skewed data
+
+### Feature Scaling Methods (categorical variables)
+- one hot encoding
+  - creates *dummy variables*
+
+### Sampling Methods
+**Simple Split**
+Random selection without replacement to achieve a desired ratio. This is commonly 70/ 30.
+
+**Bootstrap**
+Typically used with smaller samples. Includes random selection from the population with replacement.
+
+**Stratified**
+Samples are chosen with consideration to one or mmore variables, with the aim of reducing accidental bias from random sampling.
 
 # Predictive Modeling I
 
