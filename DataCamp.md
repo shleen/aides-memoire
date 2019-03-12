@@ -12,6 +12,7 @@ Enjoy.
 ## General
 // General information picked up from the courses I take will be filed here.
 
+A **tidy** dataset contains a single observation in each row & each column contains a variable.
 
 ## Python
 // Learnings pertaining to the Python programming language will be filed here.
@@ -118,4 +119,54 @@ model.evaluate(test_data, test_labels)
 ## R
 // Learnings pertaining to the R programming language will be filed here.
 
+### Data Descriptions- The R Way
+- `base` package's `str()` function. Can be used on basically anything & will more often than not provide a useful overview of some key characteristics of the given object.
+- `dplyr` package's `glimpse()` function. Gives you the same information as `base` package's `str()` but gives as comprehensive a preview of the data as possible.
 
+#### tidyr
+- Install with `install.packages('tidyr')`.
+- Load into the current environment with `library('tidyr')`.
+
+- Used to, ykno, tidy your data.
+
+**gather()**
+
+Used when a dataset has columns that aren't variables, that you want to collapse into key-value pairs.
+
+**spread()**
+
+The opposite of `gather()`. Takes key-value pairs & spreads them across multiple columns. Is useful when column values should be column names. Helps in compacting a dataset
+
+**separate()**
+
+Used to split a single column into multiple. e.g. column **year\_mo** contains strings like **2018\_02** representing the observation's year & month stamps. We'd use `separate()` to split this column into a **year** & **month** column, each with their corresponding values. By default, any non-alphanumeric character is used as the delimiter.
+
+**unite()**
+
+The opposite of `separate()`. Concatenates given columns, by default, using underscores. 
+
+#### lubridate
+- Install with `install.packages('lubridate')`.
+- Load into the current environment with `library('lubridate')`.
+
+- Used to parse & handle datetime values in R.
+
+#### stringr
+- Install with `install.packages('stringr')`.
+- Load into the current environment with `library('stringr')`.
+
+- Used for string manipulation purposes.
+
+#### ggplot2
+- Install with `install.packages('ggplot2')`.
+- Load into the current environment with `library('ggplot2')`.
+
+- Perhaps the most widely used data visualization package for R.
+
+**The `position` Argument**
+
+Used with bar plots- `geom_bar()` & `geom_histogram()` to indicate how the plot's bars should be drawn. Possible values- 
+
+- `stack`: (default) Bars are indicative of counts & are stacked vertically.
+- `fill`: Bars are indicative of proportions & are stacked vertically.
+- `dodge`: Bars are indicative of counts & are placed horizontally adjacent to each other.
