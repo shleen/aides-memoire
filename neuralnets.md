@@ -46,3 +46,5 @@ There are a number of algorithms that apply this same idea. Here, I'll focus spe
 
 # Resources used
 NeuPy. Hyperparameter optimization for Neural Networks. 2016-12-17. http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html
+
+Oscar Knagg. An intuitive guide to Gaussian processes. https://towardsdatascience.com/an-intuitive-guide-to-gaussian-processes-ec2f0b45c71d
