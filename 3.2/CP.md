@@ -40,7 +40,7 @@ The following are the notes we've consolidated in preparation of our first CP me
 - Interim Report (individual) is due on Week 8.
 - Final Showcase - Assume that both markers don't know anything about the project.
 - Final Report (both group & individual) is due on Week 18. (30% of the final report is a group section)
-- Internal conflict - Communication Is Key !
+- Beware of internal conflict; it can seriously derail a project - Communication Is Key !
 
 - Send Dr Oon details of Tetrix.
 
@@ -55,8 +55,8 @@ The following are the notes we've consolidated in preparation of our first CP me
 - Get temporary access for Who Knows to take a look at the code... Is it feasible?
 
 ### TODO
-- Finalise idea at the end of Week 1.
-- Setup user story board & share with Dr Oon.
-- Start a new section on ePortfolio for Capstone Project.
-- Add Dr Oon to WhatsApp group.
+- [ ] Finalise idea at the end of Week 1.
+- [ ] Setup user story board & share with Dr Oon.
+- [ ] Start a new section on ePortfolio for Capstone Project.
+- [x] Add Dr Oon to WhatsApp group.
 
