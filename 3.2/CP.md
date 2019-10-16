@@ -60,3 +60,32 @@ The following are the notes we've consolidated in preparation of our first CP me
 - [ ] Start a new section on ePortfolio for Capstone Project.
 - [x] Add Dr Oon to WhatsApp group.
 
+## Wednesday, 16 October 2019
+- Idea - different storage systems for different areas of the food court.
+
+### Sandbox
+In hopes of finding funding, Robin & I dropped by the Sandbox office after GPP today in attempt to glean some more information regarding the process of receiving the [Kickstart Fund](https://www.np.edu.sg/thesandbox/Pages/kickstartfund.aspx). Specifically, we wanted to see if the timeline for receiving the Kickstart Fund lines up with the relatively-urgent timeline of CP, how disbursement of any allotted funds would work, as well as what would be required of us during the process. We talked with Jia Min & Alan of Sandbox, & here are our takeaways.
+
+As expected, we started by relating to them the situation we were in - we have a prototype of an idea we'd built for the Portfolio II module, are now undertaking the Capstone Project module, & would like to bring EatNow to the next level. However, because of the nature of the idea (namely, that a large component of EatNow is its hardware component), there comes a natural need for funding to enable anywhere near the kind of product we're aiming to build. We'd heard of Sandbox's Kickstart Fund through various channels- word of mouth, online advertising, etc- & wanted to know if it's possible to utilise it for our current goals.
+
+The first point raised was regarding the [Kickstart Fund Portal](https://www1.np.edu.sg/tsb/kf/student/Login.aspx). All applications for the fund has to go through this portal.
+
+The process of receiving the funds looks like this;
+- Apply for funding through the aforementioned Kickstart Fund Portal.
+- Receive notification email to head down to Sandbox to pitch our Idea to a panel of stakeholders. Note: if no email is received within several days, feel free to physically head down to the Sandbox office & enquire.
+- Pitch to the panel.
+- (possibly) receive funding.
+- Make required purchases. Take note to keep the receipt.
+- Bring the receipt down to the Sandbox office. **90%** of the cost will be reimbursed to our bank account **within a week**.
+
+Regarding timeline: we were informed that the process can take anywhere from 2 to 4 weeks. This sounds doable with what we had in mind. Win!
+
+Regarding the pitch- here are several tips 'n tricks to keep in mind.
+- Concrete details regarding an adoption & rollout plan will be hugely valuable. The panelists want nothing more than to see that we've truly thought this idea through & are prepared to bring it to whatever heights it permits us.
+- Once again, because EatNow deals with food, **hygiene & safety** is a considerable concern. Be prepared to handle questions regarding these topics & take care to express the fact that these factors have, indeed, been identified & thought through. Even better- present ways to solve these problems & show how they fit in with our plans.
+- Following the streak of clear planning, it is a good idea to present a **sufficiently detailed breakdown of where awarded funds will go**. They're essentially throwing cash at us - of course they'd like to get reassurance that it'll likely be used well.
+- Definitely definitely talk about how we plan to conduct testing to validate that (a) users will, in fact, use EatNow & (b) that it's a practical solution at all. Because logistic constraints hinder us from doing a live-test with an FC vendor, it is still perfectly valid to set up a **pop-up booth during Open House** or any other showcase of this kind. In this case, however, realise that we'll need to conduct interviews with actual vendors to get their sentiment on the matter. The greatest idea has no chance of making waves if people cannot be convinced to adopt it. This is best presented in the context of a **timeline**.
+- For the concern of testing, it may even be valuable to present our plans for our various testing phases. This is almost especially crucial with EatNow for the reason that our product has more than a few moving parts & a robust system can only be built from robust components.
+
+- Above all, what the panelists are looking for is a **critical evaluation** of our own product - it's potential, how it can be implemented, as well as all the challenges that we foresee we may stumble across. Do your best to convey both the **feasibility** & **practicality** of the product, have them develop **confidence** in your abilities, & you're basically there!
+
