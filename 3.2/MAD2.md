@@ -47,7 +47,7 @@ Some fun String methods include;
 - `stringVar.characters` - returns an interable of the characters that form the string. Enables uses like `for c in stringVar.characters`.
 
 ### Control Structures
-The syntac for `if`, `switch`, & `white` statements are exactly of that in C++.
+The syntac for `if`, `switch`, & `while` statements are exactly of that in C++.
 
 With the `switch` statement, however, several points should be taken note of;
 - No `break` statement is required to close out each switch case.
