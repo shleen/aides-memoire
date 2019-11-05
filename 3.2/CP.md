@@ -89,3 +89,20 @@ Regarding the pitch- here are several tips 'n tricks to keep in mind.
 
 - Above all, what the panelists are looking for is a **critical evaluation** of our own product - it's potential, how it can be implemented, as well as all the challenges that we foresee we may stumble across. Do your best to convey both the **feasibility** & **practicality** of the product, have them develop **confidence** in your abilities, & you're basically there!
 
+# Week 2
+Problems
+- speed
+- industrial
+- diff solution (focus focus on solving the food problem)a
+
+- robotics is HARD
+
+Big updates! Complete pivot! We're now building a treasure hunt app. So - after talking things through, we came to the conclusion that the scope is just ... too large. From there, we started thinking about whether we were deadset on robotics or whether we want to solve our food problem. Starting 
+
+Decision - 10:37 AM, 23 October - Android!
+
+[ ] Create the project
+
+23 October - can't decide on platform. Will build MVP for both Android & PWA & go from there.
+24 October - 2 MVPs done ! Gotta decide on platform.
+Decision - PWA using Angular! Benefits like no installation + cross-platform compatibility outweigh the robustness that native apps provide.
