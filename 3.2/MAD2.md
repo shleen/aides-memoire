@@ -145,10 +145,10 @@ var objects: [NSManagedObject] = []
 let appDelegate = (UIApplication.shared.delegate) as! AppDelegate
 let context = appDelegate.persistentContainer.viewContext
 
-let fetchRequest = NSFetchRequest<NSManagedObject>(entityName: "CD class name")
+let request = NSFetchRequest<NSManagedObject>(entityName: "CD class name")
 
 do {
-    objects = try context.fetch(fetchRequest)
+    objects = try context.fetch(request)
 }
 catch let error as NSError {
     print("Could not fetch. \(error), \(error.userInfo)")
@@ -184,3 +184,31 @@ override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
 }
 ```
 For the above example, in the destination view controller, we'd see `var contact_ : Contact?` defined.
+
+#### Core Data - Updating an existing record
+Really just involves fetching the right record, .setValue-ing, & saving.
+```swift
+var objects: [NSManagedObject] = []
+
+// If not in AppDelegate.swift, get the application's appDelegate & context
+let appDelegate = (UIApplication.shared.delegate) as! AppDelegate
+let context = appDelegate.persistentContainer.viewContext
+
+let request = NSFetchRequest<NSManagedObject>(entityName: "CD class name")
+request.predicate = NSPredicate(format: "name == %@", uniqueUsername)
+
+do {
+    objects = try context.fetch(request)
+
+    if objects.count != 0
+    {
+        var object = objects[0]
+        object.setValue(newValue, forKey: "keypath")
+    }
+
+    try context.save()
+}
+catch let error as NSError {
+    print("Could not fetch. \(error), \(error.userInfo)")
+}
+```
