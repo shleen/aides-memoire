@@ -94,3 +94,93 @@ As you may be aware, Swift is a type-safe language. In this way, variables canno
 As can be surmised, optionals in Swift are very much like regular variables, save for the fact that they can hold a `nil` value. Syntax-wise, an optional can be differentiated from a regular variable by the fact that its data type is suffixed with a question mark (?). For instance, a String optional declaration would look very much like this - `var optStringVar : String?`.
 
 Aside from a difference in declaration, it should also be noted that optionals have to be **force unwrapped** in order for their value to be accessed. This is done by suffixing the optional's name with a bang (!) where the value of the optional is to be used.
+
+### A Swift Project
+AppDelegate.swift - handles app creation & acts as the entry point to the app.
+
+#### Core Data - Creating a record
+Core Data is an object graph & persistence framework used to manage an application's model layer.
+
+We're going to assume that you've already created the entity data class in the project's .xcdatamodel file.
+```swift
+// If not in AppDelegate.swift, get the application's appDelegate & context
+let appDelegate = UIApplication.shared.delegate as! AppDelegate
+let context = appDelegate.persistentContainer.viewContext
+
+// Get entity
+let entity = NSEntityDescription.entity(forEntityName: "CDAccount", in: context)!
+
+// Create record
+let object = NSManagedObject(entity: entity, insertInto: context)
+
+// Populate object
+object.setValue("value here", forKeyPath: "keypath here")
+
+// Save changes
+do {
+    try context.save()    
+} catch let error as NSError {
+    print("Could not save. \(error), \(error.userInfo)")
+}
+```
+
+#### Displaying an alert view
+```swift
+// Display alert
+let alertView = UIAlertController(title: "title for alert here",
+                                  message: "message here",
+                                  preferredStyle: UIAlertController.Style.alert)
+
+alertView.addAction(UIAlertAction(title: "Ok",
+                                  style: UIAlertAction.Style.default,
+                                  handler: { _ in }))
+
+self.present(alertView, animated: true, completion: nil)
+```
+
+#### Core Data - Fetch all records of a CD Class
+```swift
+var objects: [NSManagedObject] = []
+        
+let appDelegate = (UIApplication.shared.delegate) as! AppDelegate
+let context = appDelegate.persistentContainer.viewContext
+
+let fetchRequest = NSFetchRequest<NSManagedObject>(entityName: "CD class name")
+
+do {
+    objects = try context.fetch(fetchRequest)
+}
+catch let error as NSError {
+    print("Could not fetch. \(error), \(error.userInfo)")
+}
+```
+
+#### Core data - filter from a CD Class
+Between creating the request & executing the request, add a **predicate**.
+```swift
+request.predicate = NSPredicate(format: "name == %@", nameVar)
+```
+
+#### Present ViewController programmatically
+```swift
+let vc = self.storyboard?.instantiateViewController(identifier: "Storyboard ID of view controller")
+show(vc!, sender: sender)
+```
+
+Note: if the view controller is displaying weirdly for some reason, look into this - `vc?.modalPresentationStyle = UIModalPresentationStyle.currentContext`
+
+#### Passing data between view controllers
+This method passes it through the segue.
+```swift
+override func prepare(for segue: UIStoryboardSegue, sender: Any?) {        
+    if let vc = segue.destination as? NameOfDestinationViewController
+    {
+        let index = self.tableView.indexPathForSelectedRow
+        let indexNumber = index?.row //0,1,2,3
+
+        // Here you can access a variable declared within the destination view controller & set it to whatever you want it to be 
+        vc.contact_ = contacts[indexNumber!]
+    }
+}
+```
+For the above example, in the destination view controller, we'd see `var contact_ : Contact?` defined.
