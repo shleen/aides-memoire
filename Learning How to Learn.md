@@ -1,0 +1,6 @@
+# Learning How to Learn
+This is a compilation of any notes taken from the Coursera source [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn/home/welcome).
+
+## Week 1
+### Introduction to the Focused & Diffuse Modes
+As it turns out, we have two discrete modes of thinking - the **focused** & **diffuse** modes. The focused mode of thinking is reasonably familiar to us. It looks like rapidly firing synapses, thoughts that travel quickly down familiar paths. On the other hand, however, is the diffused mode. This mode is typically most relevant when we are speaking about learning new things - forming new thought patterns. The term *diffused* refers almost as if to a looser formation of synapses, where our thoughts can travel in a more languid way, to explore new thought patterns. In this mode of thinking, there is the downside of losing granularity, though there is a corresponding upside of being able to see & think broader.
