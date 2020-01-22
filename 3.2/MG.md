@@ -41,3 +41,8 @@ The inverse of a matrix is typically represented with a superscripted **-1** abo
 Given a matrix A, both operations `AA-1` & `A-1A` result in the identity matrix.
 
 For two matrices to be **equal**, they have to be equal in both order & elements.
+
+## Week 13 & 14 - Linear Transformations
+An **identity transformation** - `I(x) = x`.
+
+A **zero transformation** - `O(x) = 0`.
