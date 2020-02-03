@@ -46,3 +46,52 @@ For two matrices to be **equal**, they have to be equal in both order & elements
 An **identity transformation** - `I(x) = x`.
 
 A **zero transformation** - `O(x) = 0`.
+
+## Week 15 & 16 - Linear Kinematics
+**Uniform motion** describes an object that is moving in a specific direction at a constant speed.
+
+Fittingly, then, **uniform circular motion** describes an object moving in a perfect circle at a constant speed.
+
+### Distance & displacement
+- **Distance**(m) is the scalar quantity describing the total length of travel.
+- **Displacement**(m in a specific direction) is the vector quantity describing the change in position of an object in a particular direction.
+
+### Speed & velocity
+- **Speed**(m/s) of an object is its rate of change of distance. It is calculated with 
+
+    `speed = ∆ distance / ∆ time`
+
+- **Velocity**(m/s in a particular direction) of an object is its rate of change of displacement. It is calculated with 
+
+    `velocity = ∆ displacement / ∆ time`
+
+**Accelerated motion**, on the other hand, describes objects that are not moving with a constant velocity.
+
+**Acceleration**(m/s^2) refers to the rate of change of velocity. Calculated with 
+
+```
+acceleration, a = ∆ velocity / ∆ time 
+                = (v - u) / t           where u = initial velocity & v = final velocity
+
+also, v = u + at
+by integration, s = ut + .5at^2
+& v^2 = u^2 + 2as
+```
+Note: the last 3 equations above can only be used when **acceleration is constant**
+
+If an object's mass remains constant, & nett force is known, acceleration can be computed with Newton's second law of motion, `F = ma` which, rearranged, becomes `a = F/m`. If the weight (W) & drag (D) of the object is known, force (F) can be computed as well - `F = W - D`. Put together, we have `a = (W - D) / m`.
+
+**Terminal velocity** refers to the phenomenon where W = D (D increases w the square of speed), resulting in F = 0 & therefore a = 0. It refers to this constant velocity.
+
+### Projectile motion
+A form of motion experienced by an object that is thrown & that moved along a curved path under the action of only gravity. In these situations, it is oft assumed for air resistance to be negligible.
+
+This motion is 2-dimensional, & the object's velocity can be seen to be comprised of an x-component & a y-component.
+```
+x_vel = u cos(θ)
+y_vel = u sin(θ) - gt   where g = 9.81m/s^2
+
+the x length of motion, range = (u^2 sin(2θ)) / g
+total_time_taken = (2u sin(θ)) / g
+```
+
